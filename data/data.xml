@@ -2,6 +2,111 @@
 <placemarks>
 
 
+
+<placemark>
+<name>Tony</name>
+<date_time>2017-08-22</date_time>
+<X>56.05738</X>
+<Y>-4.80568</Y>
+</placemark>
+<placemark>
+<name>Tony</name>
+<date_time>2017-08-27</date_time>
+<X>55.99802</X>
+<Y>-4.06186</Y>
+</placemark>
+<placemark>
+<name>Tony</name>
+<date_time>2017-08-30</date_time>
+<X>55.96001</X>
+<Y>-4.48805</Y>
+</placemark>
+<placemark>
+<name>Tony</name>
+<date_time>2017-09-01</date_time>
+<X>51.77001</X>
+<Y>-3.11578</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Tony heads to Wales</h3><p>After leaving his nest site, Tony spent some time in Inverclyde and Central Scotland before taking a big journey south to Wales.</p>]]></latest_position>
+</placemark>
+
+
+
+<placemark>
+<name>Lia</name>
+<date_time>2017-08-28</date_time>
+<X>52.695077</X>
+<Y>-3.66663</Y>
+</placemark>
+<placemark>
+<name>Lia</name>
+<date_time>2017-08-29</date_time>
+<X>52.547273</X>
+<Y>-3.61638</Y>
+</placemark>
+<placemark>
+<name>Lia</name>
+<date_time>2017-09-01</date_time>
+<X>51.83385</X>
+<Y>-3.842648</Y>
+</placemark>
+<placemark>
+<name>Lia</name>
+<date_time>2017-09-03</date_time>
+<X>51.987986</X>
+<Y>-3.128885</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Lia tours Wales</h3><p>Lia has been a very adventurous Harrier and has so far toured round large parts of Wales, she is currently in south eastern Powys, not far from the English border.</p>]]></latest_position>
+</placemark>
+
+
+
+
+
+
+<placemark>
+<name>Rannoch</name>
+<date_time>2017-08-22</date_time>
+<X>56.63708</X>
+<Y>-4.57466</Y>
+</placemark>
+<placemark>
+<name>Rannoch</name>
+<date_time>2017-08-28</date_time>
+<X>56.38608</X>
+<Y>-5.45225</Y>
+</placemark>
+<placemark>
+<name>Rannoch</name>
+<date_time>2017-08-30</date_time>
+<X>56.35738</X>
+<Y>-4.78198</Y>
+</placemark>
+<placemark>
+<name>Rannoch</name>
+<date_time>2017-08-31</date_time>
+<X>56.48792</X>
+<Y>-4.42333</Y>
+</placemark>
+<placemark>
+<name>Rannoch</name>
+<date_time>2017-09-01</date_time>
+<X>56.20595</X>
+<Y>-4.29269</Y>
+</placemark>
+<placemark>
+<name>Rannoch</name>
+<date_time>2017-09-02</date_time>
+<X>55.99835</X>
+<Y>-4.2302</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Rannoch takes flight</h3><p>After leaving her nest site Rannoch has been on quite a journey. First she headed to the west coast before coming back inland to Perthshire before heading further south to central Scotland.</p>]]></latest_position>
+</placemark>
+
+
+
+
+
 <placemark>
 <name>Saorsa</name>
 <date_time>2017-08-09</date_time>
@@ -31,9 +136,35 @@
 <date_time>2017-08-20</date_time>
 <X>58.05517</X>
 <Y>-4.24921</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>Saorsa in northern Scotland</h3><p>After leaving her nest site Saorsa has headed north and is exploring the northern region of Scotland.</p>]]></latest_position>
 </placemark>
+<placemark>
+<name>Saorsa</name>
+<date_time>2017-08-21</date_time>
+<X>58.03239</X>
+<Y>-4.3775</Y>
+</placemark>
+<placemark>
+<name>Saorsa</name>
+<date_time>2017-08-23</date_time>
+<X>58.1265</X>
+<Y>-4.36255</Y>
+</placemark>
+<placemark>
+<name>Saorsa</name>
+<date_time>2017-08-23</date_time>
+<X>58.05858</X>
+<Y>-4.25374</Y>
+</placemark>
+<placemark>
+<name>Saorsa</name>
+<date_time>2017-09-02</date_time>
+<X>58.34322</X>
+<Y>-3.20118</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Saorsa in northern Scotland</h3><p>Saorsa's journey continues as she headed north towards the northern point of Scotland.</p>]]></latest_position>
+</placemark>
+
+
 
 
 
@@ -54,8 +185,20 @@
 <date_time>2017-08-16</date_time>
 <X>56.04371</X>
 <Y>-4.68872</Y>
+</placemark>
+<placemark>
+<name>Sirius</name>
+<date_time>2017-08-21</date_time>
+<X>56.05911</X>
+<Y>-4.69528</Y>
+</placemark>
+<placemark>
+<name>Sirius</name>
+<date_time>2017-09-02</date_time>
+<X>56.08273</X>
+<Y>-4.66853</Y>
 <status>alive</status>
-<latest_position><![CDATA[<h3>Sirius in Dumbartonshire</h3><p>After leaving his nest site Sirius has headed south and is exploring the area near Dumbartonshire.</p>]]></latest_position>
+<latest_position><![CDATA[<h3>Sirius in Dumbartonshire</h3><p>Sirius is still exploring the area near Dumbartonshire.</p>]]></latest_position>
 </placemark>
 
 
@@ -84,8 +227,32 @@
 <date_time>2017-08-20</date_time>
 <X>56.35846</X>
 <Y>-4.15571</Y>
+</placemark>
+<placemark>
+<name>Skylar</name>
+<date_time>2017-08-23</date_time>
+<X>56.27905</X>
+<Y>-4.21538</Y>
+</placemark>
+<placemark>
+<name>Skylar</name>
+<date_time>2017-08-28</date_time>
+<X>56.3245</X>
+<Y>-4.09192</Y>
+</placemark>
+<placemark>
+<name>Skylar</name>
+<date_time>2017-09-01</date_time>
+<X>56.44202</X>
+<Y>-4.20137</Y>
+</placemark>
+<placemark>
+<name>Skylar</name>
+<date_time>2017-09-03</date_time>
+<X>56.7564</X>
+<Y>-4.28501</Y>
 <status>alive</status>
-<latest_position><![CDATA[<h3>Skylar in Stirlingshire</h3><p>After leaving her nest site Skylar is exploring north Stirlingshire.</p>]]></latest_position>
+<latest_position><![CDATA[<h3>Skylar heads to Perthshire</h3><p>After spending some time Stirlingshire, Skylar has headed north to Perthshire.</p>]]></latest_position>
 </placemark>
 
 
@@ -96,9 +263,34 @@
 <date_time>2017-08-10</date_time>
 <X>58.90025</X>
 <Y>-2.67332</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>Eric on Copinsay</h3><p>After leaving his nest Eric headed over to Copinsay.</p>]]></latest_position>
 </placemark>
+<placemark>
+<name>Eric</name>
+<date_time>2017-08-21</date_time>
+<X>58.94124</X>
+<Y>-2.77821</Y>
+</placemark>
+<placemark>
+<name>Eric</name>
+<date_time>2017-08-22</date_time>
+<X>58.95911</X>
+<Y>-2.91329</Y>
+</placemark>
+<placemark>
+<name>Eric</name>
+<date_time>2017-08-25</date_time>
+<X>58.94728</X>
+<Y>-2.7857</Y>
+</placemark>
+<placemark>
+<name>Eric</name>
+<date_time>2017-09-01</date_time>
+<X>58.95411</X>
+<Y>-2.73106</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Back to the mainland</h3><p>Eric has headed back to the mainland after exploring Copinsay.</p>]]></latest_position>
+</placemark>
+
 
 
 <placemark>
@@ -142,9 +334,41 @@
 <date_time>2017-08-19</date_time>
 <X>55.79908</X>
 <Y>-4.79618</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>West Coast of Scotland</h3><p>Heather has left her nest site and is now exploring the west coast of Scotland.</p>]]></latest_position>
 </placemark>
+<placemark>
+<name>Heather</name>
+<date_time>2017-08-21</date_time>
+<X>55.72081</X>
+<Y>-4.45901</Y>
+</placemark>
+<placemark>
+<name>Heather</name>
+<date_time>2017-08-26</date_time>
+<X>55.87359</X>
+<Y>-4.84961</Y>
+</placemark>
+<placemark>
+<name>Heather</name>
+<date_time>2017-08-28</date_time>
+<X>56.58881</X>
+<Y>-4.66642</Y>
+</placemark>
+<placemark>
+<name>Heather</name>
+<date_time>2017-08-31</date_time>
+<X>56.85965</X>
+<Y>-4.59935</Y>
+</placemark>
+<placemark>
+<name>Heather</name>
+<date_time>2017-09-03</date_time>
+<X>56.88384</X>
+<Y>-4.40683</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>In the Highlands</h3><p>After spending some time in the Ayrshire area, Heather has headed north and is now in the southern Highlands.</p>]]></latest_position>
+</placemark>
+
+
 
 
 
@@ -801,10 +1025,15 @@
 <date_time>2017-08-20</date_time>
 <X>57.11445</X>
 <Y>-3.06741</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>Back to Aberdeenshire</h3><p>After a successful breeding season, DeeCee has returned to Aberdeenshire.</p>]]></latest_position>
 </placemark>
-
+<placemark>
+<name>DeeCee</name>
+<date_time>2017-09-03</date_time>
+<X>57.12105</X>
+<Y>-3.08325</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Back to Aberdeenshire</h3><p>DeeCee is still in Aberdeenshire.</p>]]></latest_position>
+</placemark>
 
 
 
@@ -2945,7 +3174,7 @@
 <X>52.6803</X>
 <Y>-2.6365</Y>
 <status>alive</status>
-<latest_position><![CDATA[<h3>Heading back to Northumberland?</h3><p>After sticking close to her nest site on the Isle of Man until October, Aalin suddenly made the jump to England, being sighted at Woolston Eyes nature reserve, near Warrington, before spending the winter months in the Shropshire Hills Area of Outstanding Natural Beauty. By the start of May 2017, she still hadn't budged. Will she summer on the mainland or make her way back to her island home?</p>]]></latest_position>
+<latest_position><![CDATA[<h3>Heading back home?</h3><p>After sticking close to her nest site on the Isle of Man until October, Aalin suddenly made the jump to England, being sighted at Woolston Eyes nature reserve, near Warrington, before spending the winter months in the Shropshire Hills Area of Outstanding Natural Beauty. By the start of May 2017, she still hadn't budged. Will she summer on the mainland or make her way back to her island home?</p>]]></latest_position>
 </placemark>
 
 
