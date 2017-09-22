@@ -26,8 +26,6 @@
 <date_time>2017-09-01</date_time>
 <X>51.77001</X>
 <Y>-3.11578</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>Tony heads to Wales</h3><p>After leaving his nest site, Tony spent some time in Inverclyde and Central Scotland before taking a big journey south to Wales.</p>]]></latest_position>
 </placemark>
 
 
@@ -99,8 +97,6 @@
 <date_time>2017-09-02</date_time>
 <X>55.99835</X>
 <Y>-4.2302</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>Rannoch takes flight</h3><p>After leaving her nest site Rannoch has been on quite a journey. First she headed to the west coast before coming back inland to Perthshire before heading further south to central Scotland.</p>]]></latest_position>
 </placemark>
 
 
@@ -160,8 +156,6 @@
 <date_time>2017-09-02</date_time>
 <X>58.34322</X>
 <Y>-3.20118</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>Saorsa in northern Scotland</h3><p>Saorsa's journey continues as she headed north towards the northern point of Scotland.</p>]]></latest_position>
 </placemark>
 
 
@@ -197,8 +191,6 @@
 <date_time>2017-09-02</date_time>
 <X>56.08273</X>
 <Y>-4.66853</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>Sirius in Dumbartonshire</h3><p>Sirius is still exploring the area near Dumbartonshire.</p>]]></latest_position>
 </placemark>
 
 
@@ -251,9 +243,9 @@
 <date_time>2017-09-03</date_time>
 <X>56.7564</X>
 <Y>-4.28501</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>Skylar heads to Perthshire</h3><p>After spending some time Stirlingshire, Skylar has headed north to Perthshire.</p>]]></latest_position>
 </placemark>
+
+
 
 
 
@@ -287,8 +279,6 @@
 <date_time>2017-09-01</date_time>
 <X>58.95411</X>
 <Y>-2.73106</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>Back to the mainland</h3><p>Eric has headed back to the mainland after exploring Copinsay.</p>]]></latest_position>
 </placemark>
 
 
@@ -364,8 +354,6 @@
 <date_time>2017-09-03</date_time>
 <X>56.88384</X>
 <Y>-4.40683</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>In the Highlands</h3><p>After spending some time in the Ayrshire area, Heather has headed north and is now in the southern Highlands.</p>]]></latest_position>
 </placemark>
 
 
@@ -1031,8 +1019,6 @@
 <date_time>2017-09-03</date_time>
 <X>57.12105</X>
 <Y>-3.08325</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>Back to Aberdeenshire</h3><p>DeeCee is still in Aberdeenshire.</p>]]></latest_position>
 </placemark>
 
 
@@ -1710,9 +1696,11 @@
 <date_time>2017-04-15</date_time>
 <X>56.01036</X>
 <Y>-4.6651</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>Heading to her birthpace?</h3><p>Having first explored Loch Lomond and the Trossachs National Park, Wendy contentedly spent her winter months sticking steadfastly to the Isles of Ulva and Mull. However in late April, she suddenly lept into action and flew to Dumbartonshire. Could she be headed back to her birthplace at Coulport?</p>]]></latest_position>
 </placemark>
+
+
+
+
 
 
 
@@ -2327,9 +2315,9 @@
 <date_time>2017-04-13</date_time>
 <X>56.56486</X>
 <Y>-3.81618</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>Settling in Aberdeenshire?</h3><p>Having stuck close to home for her first few months, Harriet took only a few days in October to fly all the way south to the Lake District in Cumbria, where she happily spent her winter. With Spring came the travel bug and in April, she suddenly jumped north heading back to where she started, at Mar Lodge estate, in Aberdeenshire. Will she settle there for the summer?</p>]]></latest_position>
 </placemark>
+
+
 
 
 
@@ -4806,6 +4794,278 @@
 <status>dead</status>
 <latest_position><![CDATA[<h3>Calluna's last known position</h3><p>Sadly, less that three weeks after fledging, Calluna's tag suddenly stopped transmitting and she disappeared in an area of moorland managed for driven grouse shooting. She has not been seen or heard from since.</p>]]></latest_position>
 </placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+<placemark>
+<name>DeeCee</name>
+<date_time>2017-09-17</date_time>
+<X>57.1166</X>
+<Y>-3.05991</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Latest position</h3><p>DeeCee is still in Aberdeenshire.</p>]]></latest_position>
+</placemark>
+<placemark>
+<name>Wendy</name>
+<date_time>2017-09-17</date_time>
+<X>56.29385</X>
+<Y>-5.05684</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Latest position</h3><p>Wendy is now in the Argyll area.</p>]]></latest_position>
+</placemark>
+<placemark>
+<name>Harriet</name>
+<date_time>2017-09-15</date_time>
+<X>56.04108</X>
+<Y>-4.05929</Y>
+</placemark>
+<placemark>
+<name>Harriet</name>
+<date_time>2017-09-16</date_time>
+<X>56.06667</X>
+<Y>-4.17461</Y>
+</placemark>
+<placemark>
+<name>Harriet</name>
+<date_time>2017-09-16</date_time>
+<X>56.07111</X>
+<Y>-4.13226</Y>
+</placemark>
+<placemark>
+<name>Harriet</name>
+<date_time>2017-09-17</date_time>
+<X>56.07611</X>
+<Y>-4.16259</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Latest position</h3><p>Harriet has headed south and is now in Stirlingshire.</p>]]></latest_position>
+</placemark>
+<placemark>
+<name>Heather</name>
+<date_time>2017-09-05</date_time>
+<X>56.82207</X>
+<Y>-4.22426</Y>
+</placemark>
+<placemark>
+<name>Heather</name>
+<date_time>2017-09-09</date_time>
+<X>56.4885</X>
+<Y>-4.64754</Y>
+</placemark>
+<placemark>
+<name>Heather</name>
+<date_time>2017-09-12</date_time>
+<X>56.57986</X>
+<Y>-4.71467</Y>
+</placemark>
+<placemark>
+<name>Heather</name>
+<date_time>2017-09-16</date_time>
+<X>55.86028</X>
+<Y>-4.83448</Y>
+</placemark>
+<placemark>
+<name>Heather</name>
+<date_time>2017-09-17</date_time>
+<X>56.02364</X>
+<Y>-4.85999</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Latest position</h3><p>Heather returned to Ayrshire briefly before beginning to head north again.</p>]]></latest_position>
+</placemark>
+<placemark>
+<name>Tony</name>
+<date_time>2017-09-04</date_time>
+<X>51.77212</X>
+<Y>-3.14573</Y>
+</placemark>
+<placemark>
+<name>Tony</name>
+<date_time>2017-09-16</date_time>
+<X>50.26481</X>
+<Y>-4.98402</Y>
+</placemark>
+<placemark>
+<name>Tony</name>
+<date_time>2017-09-16</date_time>
+<X>50.14839</X>
+<Y>-5.21096</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Latest position</h3><p>After spending some time in South Wales, Tony has head south west to Cornwall.</p>]]></latest_position>
+</placemark>
+<placemark>
+<name>Eric</name>
+<date_time>2017-09-04</date_time>
+<X>58.96685</X>
+<Y>-2.85384</Y>
+</placemark>
+<placemark>
+<name>Eric</name>
+<date_time>2017-09-11</date_time>
+<X>58.8985</X>
+<Y>-2.67298</Y>
+</placemark>
+<placemark>
+<name>Eric</name>
+<date_time>2017-09-15</date_time>
+<X>58.92568</X>
+<Y>-2.74246</Y>
+</placemark>
+<placemark>
+<name>Eric</name>
+<date_time>2017-09-16</date_time>
+<X>58.94619</X>
+<Y>-2.90354</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Latest position</h3><p>Eric is spending his time between the mainland and Copinsay.</p>]]></latest_position>
+</placemark>
+<placemark>
+<name>Skylar</name>
+<date_time>2017-09-06</date_time>
+<X>56.40674</X>
+<Y>-4.09976</Y>
+</placemark>
+<placemark>
+<name>Skylar</name>
+<date_time>2017-09-07</date_time>
+<X>56.31376</X>
+<Y>-4.12758</Y>
+</placemark>
+<placemark>
+<name>Skylar</name>
+<date_time>2017-09-08</date_time>
+<X>56.26144</X>
+<Y>-4.22</Y>
+</placemark>
+<placemark>
+<name>Skylar</name>
+<date_time>2017-09-12</date_time>
+<X>56.32903</X>
+<Y>-4.08925</Y>
+</placemark>
+<placemark>
+<name>Skylar</name>
+<date_time>2017-09-17</date_time>
+<X>56.27854</X>
+<Y>-4.21213</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Latest position</h3><p>Skylar has headed south again and is in the Stirlingshire area.</p>]]></latest_position>
+</placemark>
+<placemark>
+<name>Sirius</name>
+<date_time>2017-09-05</date_time>
+<X>56.04887</X>
+<Y>-4.67232</Y>
+</placemark>
+<placemark>
+<name>Sirius</name>
+<date_time>2017-09-17</date_time>
+<X>56.09444</X>
+<Y>-4.70136</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Latest position</h3><p>Sirius is still exploring the area near Dumbartonshire.</p>]]></latest_position>
+</placemark>
+<placemark>
+<name>Saorsa</name>
+<date_time>2017-09-05</date_time>
+<X>58.35122</X>
+<Y>-3.1861</Y>
+</placemark>
+<placemark>
+<name>Saorsa</name>
+<date_time>2017-09-07</date_time>
+<X>58.34756</X>
+<Y>-3.2817</Y>
+</placemark>
+<placemark>
+<name>Saorsa</name>
+<date_time>2017-09-08</date_time>
+<X>58.45913</X>
+<Y>-3.34222</Y>
+</placemark>
+<placemark>
+<name>Saorsa</name>
+<date_time>2017-09-11</date_time>
+<X>58.49436</X>
+<Y>-3.23156</Y>
+</placemark>
+<placemark>
+<name>Saorsa</name>
+<date_time>2017-09-16</date_time>
+<X>58.50623</X>
+<Y>-3.26331</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Latest position</h3><p>Saorsa is still exploring northern Scotland.</p>]]></latest_position>
+</placemark>
+<placemark>
+<name>Rannoch</name>
+<date_time>2017-09-04</date_time>
+<X>56.03061</X>
+<Y>-4.27459</Y>
+</placemark>
+<placemark>
+<name>Rannoch</name>
+<date_time>2017-09-05</date_time>
+<X>56.0353</X>
+<Y>-4.32571</Y>
+</placemark>
+<placemark>
+<name>Rannoch</name>
+<date_time>2017-09-14</date_time>
+<X>56.40075</X>
+<Y>-4.21683</Y>
+</placemark>
+<placemark>
+<name>Rannoch</name>
+<date_time>2017-09-16</date_time>
+<X>56.45013</X>
+<Y>-4.20532</Y>
+</placemark>
+<placemark>
+<name>Rannoch</name>
+<date_time>2017-09-17</date_time>
+<X>56.52965</X>
+<Y>-4.0724</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Latest position</h3><p>After spending some time in Central Scotland, Rannoch has headed north again towards Perthshire.</p>]]></latest_position>
+</placemark>
+<placemark>
+<name>Manu</name>
+<date_time>2017-09-05</date_time>
+<X>55.50682</X>
+<Y>-1.83672</Y>
+</placemark>
+<placemark>
+<name>Manu</name>
+<date_time>2017-09-13</date_time>
+<X>55.50597</X>
+<Y>-1.85671</Y>
+</placemark>
+<placemark>
+<name>Manu</name>
+<date_time>2017-09-15</date_time>
+<X>55.36833</X>
+<Y>-1.7899</Y>
+</placemark>
+<placemark>
+<name>Manu</name>
+<date_time>2017-09-16</date_time>
+<X>55.3708</X>
+<Y>-1.76509</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Latest position</h3><p>Manu has moved south and is now exploring Northumberland.</p>]]></latest_position>
+</placemark>
+
+
+
+
 
 
 </placemarks>
