@@ -53,8 +53,6 @@
 <date_time>2017-09-03</date_time>
 <X>51.987986</X>
 <Y>-3.128885</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>Lia tours Wales</h3><p>Lia has been a very adventurous Harrier and has so far toured round large parts of Wales, she is currently in south eastern Powys, not far from the English border.</p>]]></latest_position>
 </placemark>
 
 
@@ -2674,8 +2672,6 @@
 <date_time>2016-12-16</date_time>
 <X>55.21179</X>
 <Y>-4.69799</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>Heading back to Northumberland?</h3><p>Leaving Northumberland early last August, Finn explored the Scottish Borders, slowly making her way west to spend her winter months in South Ayrshire, just west of Galloway Forest Park. Come April, she started moving east again but will she head back to Northumberland or stay in her adopted Scottish home?</p>]]></latest_position>
 </placemark>
 
 
@@ -3161,8 +3157,6 @@
 <date_time>2017-04-16</date_time>
 <X>52.6803</X>
 <Y>-2.6365</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>Heading back home?</h3><p>After sticking close to her nest site on the Isle of Man until October, Aalin suddenly made the jump to England, being sighted at Woolston Eyes nature reserve, near Warrington, before spending the winter months in the Shropshire Hills Area of Outstanding Natural Beauty. By the start of May 2017, she still hadn't budged. Will she summer on the mainland or make her way back to her island home?</p>]]></latest_position>
 </placemark>
 
 
@@ -4811,16 +4805,12 @@
 <date_time>2017-09-17</date_time>
 <X>57.1166</X>
 <Y>-3.05991</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>Latest position</h3><p>DeeCee is still in Aberdeenshire.</p>]]></latest_position>
 </placemark>
 <placemark>
 <name>Wendy</name>
 <date_time>2017-09-17</date_time>
 <X>56.29385</X>
 <Y>-5.05684</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>Latest position</h3><p>Wendy is now in the Argyll area.</p>]]></latest_position>
 </placemark>
 <placemark>
 <name>Harriet</name>
@@ -4845,8 +4835,6 @@
 <date_time>2017-09-17</date_time>
 <X>56.07611</X>
 <Y>-4.16259</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>Latest position</h3><p>Harriet has headed south and is now in Stirlingshire.</p>]]></latest_position>
 </placemark>
 <placemark>
 <name>Heather</name>
@@ -4877,8 +4865,6 @@
 <date_time>2017-09-17</date_time>
 <X>56.02364</X>
 <Y>-4.85999</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>Latest position</h3><p>Heather returned to Ayrshire briefly before beginning to head north again.</p>]]></latest_position>
 </placemark>
 <placemark>
 <name>Tony</name>
@@ -4897,8 +4883,6 @@
 <date_time>2017-09-16</date_time>
 <X>50.14839</X>
 <Y>-5.21096</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>Latest position</h3><p>After spending some time in South Wales, Tony has head south west to Cornwall.</p>]]></latest_position>
 </placemark>
 <placemark>
 <name>Eric</name>
@@ -4923,8 +4907,6 @@
 <date_time>2017-09-16</date_time>
 <X>58.94619</X>
 <Y>-2.90354</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>Latest position</h3><p>Eric is spending his time between the mainland and Copinsay.</p>]]></latest_position>
 </placemark>
 <placemark>
 <name>Skylar</name>
@@ -4955,8 +4937,6 @@
 <date_time>2017-09-17</date_time>
 <X>56.27854</X>
 <Y>-4.21213</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>Latest position</h3><p>Skylar has headed south again and is in the Stirlingshire area.</p>]]></latest_position>
 </placemark>
 <placemark>
 <name>Sirius</name>
@@ -4969,8 +4949,6 @@
 <date_time>2017-09-17</date_time>
 <X>56.09444</X>
 <Y>-4.70136</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>Latest position</h3><p>Sirius is still exploring the area near Dumbartonshire.</p>]]></latest_position>
 </placemark>
 <placemark>
 <name>Saorsa</name>
@@ -5001,8 +4979,6 @@
 <date_time>2017-09-16</date_time>
 <X>58.50623</X>
 <Y>-3.26331</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>Latest position</h3><p>Saorsa is still exploring northern Scotland.</p>]]></latest_position>
 </placemark>
 <placemark>
 <name>Rannoch</name>
@@ -5033,8 +5009,6 @@
 <date_time>2017-09-17</date_time>
 <X>56.52965</X>
 <Y>-4.0724</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>Latest position</h3><p>After spending some time in Central Scotland, Rannoch has headed north again towards Perthshire.</p>]]></latest_position>
 </placemark>
 <placemark>
 <name>Manu</name>
@@ -5059,13 +5033,355 @@
 <date_time>2017-09-16</date_time>
 <X>55.3708</X>
 <Y>-1.76509</Y>
-<status>alive</status>
-<latest_position><![CDATA[<h3>Latest position</h3><p>Manu has moved south and is now exploring Northumberland.</p>]]></latest_position>
 </placemark>
 
 
 
 
 
+
+
+
+
+
+
+<placemark>
+<name>Manu</name>
+<date_time>2017-09-23</date_time>
+<X>54.95633</X>
+<Y>-2.55552</Y>
+</placemark>
+<placemark>
+<name>Manu</name>
+<date_time>2017-09-26</date_time>
+<X>55.03179</X>
+<Y>-2.56054</Y>
+</placemark>
+<placemark>
+<name>Manu</name>
+<date_time>2017-10-01</date_time>
+<X>54.94029</X>
+<Y>-2.38774</Y>
+</placemark>
+<placemark>
+<name>Finn</name>
+<date_time>2017-10-01</date_time>
+<X>55.24701</X>
+<Y>-3.67955</Y>
+</placemark>
+<placemark>
+<name>Lia</name>
+<date_time>2017-09-23</date_time>
+<X>53.00488</X>
+<Y>-3.71597</Y>
+</placemark>
+<placemark>
+<name>Lia</name>
+<date_time>2017-09-24</date_time>
+<X>52.71193</X>
+<Y>-3.65114</Y>
+</placemark>
+<placemark>
+<name>Lia</name>
+<date_time>2017-09-25</date_time>
+<X>52.5358</X>
+<Y>-3.58035</Y>
+</placemark>
+<placemark>
+<name>Lia</name>
+<date_time>2017-09-28</date_time>
+<X>52.51111</X>
+<Y>-3.60966</Y>
+</placemark>
+<placemark>
+<name>Lia</name>
+<date_time>2017-09-29</date_time>
+<X>52.43468</X>
+<Y>-3.62686</Y>
+</placemark>
+<placemark>
+<name>Lia</name>
+<date_time>2017-10-01</date_time>
+<X>52.40984</X>
+<Y>-3.44043</Y>
+</placemark>
+<placemark>
+<name>Aalin</name>
+<date_time>2017-10-01</date_time>
+<X>52.91836</X>
+<Y>-3.38237</Y>
+</placemark>
+<placemark>
+<name>DeeCee</name>
+<date_time>2017-09-18</date_time>
+<X>57.13149</X>
+<Y>-3.0885</Y>
+</placemark>
+<placemark>
+<name>DeeCee</name>
+<date_time>2017-09-28</date_time>
+<X>57.02097</X>
+<Y>-3.49225</Y>
+</placemark>
+<placemark>
+<name>Wendy</name>
+<date_time>2017-09-18</date_time>
+<X>56.26723</X>
+<Y>-5.0594</Y>
+</placemark>
+<placemark>
+<name>Wendy</name>
+<date_time>2017-09-29</date_time>
+<X>56.19094</X>
+<Y>-5.01917</Y>
+</placemark>
+<placemark>
+<name>Wendy</name>
+<date_time>2017-09-30</date_time>
+<X>56.41852</X>
+<Y>-5.6992</Y>
+</placemark>
+<placemark>
+<name>Harriet</name>
+<date_time>2017-09-18</date_time>
+<X>56.07617</X>
+<Y>-4.18543</Y>
+</placemark>
+<placemark>
+<name>Heather</name>
+<date_time>2017-09-19</date_time>
+<X>56.58379</X>
+<Y>-4.72016</Y>
+</placemark>
+<placemark>
+<name>Heather</name>
+<date_time>2017-09-20</date_time>
+<X>56.72714</X>
+<Y>-4.65649</Y>
+</placemark>
+<placemark>
+<name>Heather</name>
+<date_time>2017-09-21</date_time>
+<X>56.77546</X>
+<Y>-4.78628</Y>
+</placemark>
+<placemark>
+<name>Heather</name>
+<date_time>2017-09-28</date_time>
+<X>56.58248</X>
+<Y>-4.71372</Y>
+</placemark>
+<placemark>
+<name>Heather</name>
+<date_time>2017-09-29</date_time>
+<X>56.7213</X>
+<Y>-4.32115</Y>
+</placemark>
+<placemark>
+<name>Heather</name>
+<date_time>2017-09-30</date_time>
+<X>56.83568</X>
+<Y>-4.26678</Y>
+</placemark>
+<placemark>
+<name>Tony</name>
+<date_time>2017-09-23</date_time>
+<X>50.56057</X>
+<Y>-4.54202</Y>
+</placemark>
+<placemark>
+<name>Tony</name>
+<date_time>2017-09-25</date_time>
+<X>47.42916</X>
+<Y>-3.8799</Y>
+</placemark>
+<placemark>
+<name>Tony</name>
+<date_time>2017-09-25</date_time>
+<X>46.73795</X>
+<Y>-3.56904</Y>
+</placemark>
+<placemark>
+<name>Tony</name>
+<date_time>2017-09-25</date_time>
+<X>45.31895</X>
+<Y>-2.98681</Y>
+</placemark>
+<placemark>
+<name>Tony</name>
+<date_time>2017-09-25</date_time>
+<X>44.4349</X>
+<Y>-3.18377</Y>
+</placemark>
+<placemark>
+<name>Tony</name>
+<date_time>2017-09-28</date_time>
+<X>43.36847</X>
+<Y>-7.85435</Y>
+</placemark>
+<placemark>
+<name>Eric</name>
+<date_time>2017-09-18</date_time>
+<X>58.95751</X>
+<Y>-2.88369</Y>
+</placemark>
+<placemark>
+<name>Eric</name>
+<date_time>2017-09-21</date_time>
+<X>59.08152</X>
+<Y>-2.6757</Y>
+</placemark>
+<placemark>
+<name>Eric</name>
+<date_time>2017-09-28</date_time>
+<X>58.93707</X>
+<Y>-2.93902</Y>
+</placemark>
+<placemark>
+<name>Skylar</name>
+<date_time>2017-09-18</date_time>
+<X>55.90281</X>
+<Y>-5.16095</Y>
+</placemark>
+<placemark>
+<name>Skylar</name>
+<date_time>2017-09-18</date_time>
+<X>55.87426</X>
+<Y>-5.56494</Y>
+</placemark>
+<placemark>
+<name>Skylar</name>
+<date_time>2017-09-19</date_time>
+<X>55.45402</X>
+<Y>-5.62245</Y>
+</placemark>
+<placemark>
+<name>Skylar</name>
+<date_time>2017-09-21</date_time>
+<X>55.61283</X>
+<Y>-4.60095</Y>
+</placemark>
+<placemark>
+<name>Skylar</name>
+<date_time>2017-09-21</date_time>
+<X>55.95276</X>
+<Y>-4.20778</Y>
+</placemark>
+<placemark>
+<name>Saorsa</name>
+<date_time>2017-09-18</date_time>
+<X>58.49776</X>
+<Y>-3.2445</Y>
+</placemark>
+<placemark>
+<name>Manu</name>
+<date_time>2017-09-19</date_time>
+<X>54.94497</X>
+<Y>-2.59423</Y>
+</placemark>
+<placemark>
+<name>Finn</name>
+<date_time>2017-09-30</date_time>
+<X>55.25082</X>
+<Y>-3.68036</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Latest position</h3><p>Finn has moved away from her breeding area and is now in Dumfries.</p>]]></latest_position>
+</placemark>
+<placemark>
+<name>Lia</name>
+<date_time>2017-09-20</date_time>
+<X>52.98951</X>
+<Y>-3.73679</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Latest position</h3><p>Lia is fully stretching her wings and is on her way south and is now in Powys.</p>]]></latest_position>
+</placemark>
+<placemark>
+<name>Aalin</name>
+<date_time>2017-09-18</date_time>
+<X>52.90942</X>
+<Y>-3.38368</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Latest position</h3><p>Having moved from where she spent the summer Aalin is now residing in north Powys.</p>]]></latest_position>
+</placemark>
+<placemark>
+<name>DeeCee</name>
+<date_time>2017-10-01</date_time>
+<X>57.11518</X>
+<Y>-3.06928</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Latest position</h3><p>DeeCee is still in Aberdeenshire.</p>]]></latest_position>
+</placemark>
+<placemark>
+<name>Wendy</name>
+<date_time>2017-10-01</date_time>
+<X>56.46793</X>
+<Y>-6.20802</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Latest position</h3><p>After spending some time in the Argyll area, Wendy has now headed to Mull.</p>]]></latest_position>
+</placemark>
+<placemark>
+<name>Harriet</name>
+<date_time>2017-09-28</date_time>
+<X>56.45786</X>
+<Y>-3.84545</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Latest position</h3><p>After spending some time Stirlingshire, Harriet has headed north again to Perthshire.</p>]]></latest_position>
+</placemark>
+<placemark>
+<name>Heather</name>
+<date_time>2017-10-01</date_time>
+<X>56.79619</X>
+<Y>-3.93827</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Latest position</h3><p>Heather stayed to the west of Perthshire, but has now headed further east.</p>]]></latest_position>
+</placemark>
+<placemark>
+<name>Tony</name>
+<date_time>2017-09-30</date_time>
+<X>42.97068</X>
+<Y>-7.8831</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Latest position</h3><p>Tony has taken an amazing journey south, heading over NW France, the Bay of Biscay and is now in the Galicia region of Spain.</p>]]></latest_position>
+</placemark>
+<placemark>
+<name>Eric</name>
+<date_time>2017-10-01</date_time>
+<X>58.94468</X>
+<Y>-2.78364</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Latest position</h3><p>Eric is spending most of his time on the mainland, although he did take a brief trip to Stronsay.</p>]]></latest_position>
+</placemark>
+<placemark>
+<name>Sirius</name>
+<date_time>2017-10-01</date_time>
+<X>56.04992</X>
+<Y>-4.67545</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Latest position</h3><p>Sirius is still exploring the area near Dumbartonshire.</p>]]></latest_position>
+</placemark>
+<placemark>
+<name>Skylar</name>
+<date_time>2017-10-01</date_time>
+<X>56.32834</X>
+<Y>-4.09052</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Latest position</h3><p>Skylar has headed west to explore the Argyll area, before heading up to Perthshire via the Strathclyde area.</p>]]></latest_position>
+</placemark>
+<placemark>
+<name>Saorsa</name>
+<date_time>2017-10-01</date_time>
+<X>58.50102</X>
+<Y>-3.25963</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Latest position</h3><p>Saorsa is still exploring northern Scotland.</p>]]></latest_position>
+</placemark>
+<placemark>
+<name>Rannoch</name>
+<date_time>2017-10-01</date_time>
+<X>56.53382</X>
+<Y>-4.09057</Y>
+<status>alive</status>
+<latest_position><![CDATA[<h3>Latest position</h3><p>Rannoch is still in Perthshire.</p>]]></latest_position>
+</placemark>
 
 </placemarks>
