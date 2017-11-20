@@ -5273,12 +5273,6 @@
 <X>58.49776</X>
 <Y>-3.2445</Y>
 </placemark>
-<placemark>
-<name>Manu</name>
-<date_time>2017-09-19</date_time>
-<X>54.94497</X>
-<Y>-2.59423</Y>
-</placemark>
 
 
 
@@ -5286,12 +5280,7 @@
 
 
 
-<placemark>
-<name>Manu</name>
-<date_time>2017-10-04</date_time>
-<X>54.56342</X>
-<Y>-2.36231</Y>
-</placemark>
+
 <placemark>
 <name>Finn</name>
 <date_time>2017-10-03</date_time>
@@ -5683,9 +5672,9 @@
 
 <placemark>
 <name>Manu</name>
-<date_time>2017-10-14</date_time>
-<X>54.56562</X>
-<Y>-2.31469</Y>
+<date_time>2017-09-19</date_time>
+<X>54.94497</X>
+<Y>-2.59423</Y>
 <status>alive</status>
 <latest_position>
 <![CDATA[
