@@ -5831,6 +5831,23 @@
 <Y>-3.0725</Y>
 </placemark>
 
+
+<placemark>
+<name>DeeCee</name>
+<date_time>2017-11-27</date_time>
+<X>57.10079</X>
+<Y>-3.09346</Y>
+</placemark>
+
+<placemark>
+<name>DeeCee</name>
+<date_time>2017-12-27</date_time>
+<X>57.09488</X>
+<Y>-3.08654</Y>
+</placemark>
+
+
+
 <placemark>
 <name>Wendy</name>
 <date_time>2017-11-26</date_time>
@@ -5844,6 +5861,14 @@
 <X>54.42543</X>
 <Y>-2.79613</Y>
 </placemark>
+
+<placemark>
+<name>Harriet</name>
+<date_time>2017-12-09</date_time>
+<X>54.42805</X>
+<Y>-2.78916</Y>
+</placemark>
+
 
 <placemark>
 <name>Heather</name>
@@ -5867,6 +5892,14 @@
 </placemark>
 
 <placemark>
+<name>Skylar</name>
+<date_time>2017-12-10</date_time>
+<X>55.47494</X>
+<Y>-3.77528</Y>
+</placemark>
+
+
+<placemark>
 <name>Saorsa</name>
 <date_time>2017-11-15</date_time>
 <X>56.80295</X>
@@ -5874,10 +5907,32 @@
 </placemark>
 
 <placemark>
+<name>Saorsa</name>
+<date_time>2017-12-01</date_time>
+<X>56.6835</X>
+<Y>-3.17659</Y>
+</placemark>
+
+
+<placemark>
 <name>Rannoch</name>
 <date_time>2017-11-16</date_time>
 <X>56.54861</X>
 <Y>-4.05118</Y>
+</placemark>
+
+<placemark>
+<name>Rannoch</name>
+<date_time>2017-12-10</date_time>
+<X>56.55769</X>
+<Y>-4.05723</Y>
+</placemark>
+
+<placemark>
+<name>Rannoch</name>
+<date_time>2017-12-27</date_time>
+<X>56.55206</X>
+<Y>-4.04897</Y>
 </placemark>
 
 <placemark>
@@ -5994,10 +6049,24 @@
 </placemark>
 
 <placemark>
+<name>Wendy</name>
+<date_time>2017-12-10</date_time>
+<X>56.61551</X>
+<Y>-6.21917</Y>
+</placemark>
+
+<placemark>
 <name>Heather</name>
 <date_time>2017-11-30</date_time>
 <X>56.5701</X>
 <Y>-4.77965</Y>
+</placemark>
+
+<placemark>
+<name>Heather</name>
+<date_time>2017-12-10</date_time>
+<X>56.33658</X>
+<Y>-4.01413</Y>
 </placemark>
 
 <placemark>
@@ -6019,6 +6088,13 @@
 <date_time>2017-12-01</date_time>
 <X>58.95011</X>
 <Y>-2.95335</Y>
+</placemark>
+
+<placemark>
+<name>Eric</name>
+<date_time>2017-12-10</date_time>
+<X>58.85611</X>
+<Y>-2.90554</Y>
 </placemark>
 
 
@@ -6058,23 +6134,27 @@
 ]]>
 </latest_position>
 </placemark>
+
+
 <placemark>
 <name>DeeCee</name>
-<date_time>2017-11-27</date_time>
-<X>57.10079</X>
-<Y>-3.09346</Y>
+<date_time>2017-12-28</date_time>
+<X>56.87169</X>
+<Y>-2.64917</Y>
 <status>alive</status>
 <latest_position>
 <![CDATA[
-<h3>Latest position</h3><p>DeeCee is still in Aberdeenshire</p>
+<h3>Latest position</h3><p>DeeCee has headed south towards Angus</p>
 ]]>
 </latest_position>
 </placemark>
+
+
 <placemark>
 <name>Wendy</name>
-<date_time>2017-12-10</date_time>
-<X>56.61551</X>
-<Y>-6.21917</Y>
+<date_time>2018-01-07</date_time>
+<X>56.5791</X>
+<Y>-6.0738</Y>
 <status>alive</status>
 <latest_position>
 <![CDATA[
@@ -6082,9 +6162,11 @@
 ]]>
 </latest_position>
 </placemark>
+
+
 <placemark>
 <name>Harriet</name>
-<date_time>2017-12-09</date_time>
+<date_time>2017-12-28</date_time>
 <X>54.42805</X>
 <Y>-2.78916</Y>
 <status>alive</status>
@@ -6094,35 +6176,41 @@
 ]]>
 </latest_position>
 </placemark>
+
 <placemark>
 <name>Heather</name>
-<date_time>2017-12-10</date_time>
-<X>56.33658</X>
-<Y>-4.01413</Y>
+<date_time>2018-01-07</date_time>
+<X>56.31276</X>
+<Y>-4.09326</Y>
 <status>alive</status>
 <latest_position>
 <![CDATA[
-<h3>Latest position</h3><p>Heather has headed SE into Perthshire</p>
+<h3>Latest position</h3><p>Heather is still in Perthshire</p>
 ]]>
 </latest_position>
 </placemark>
+
+
 <placemark>
 <name>Eric</name>
-<date_time>2017-12-10</date_time>
-<X>58.85611</X>
-<Y>-2.90554</Y>
+<date_time>2017-12-28</date_time>
+<X>58.92588</X>
+<Y>-2.86412</Y>
 <status>alive</status>
 <latest_position>
 <![CDATA[
-<h3>Latest position</h3><p>Eric is still exploring Orkney</p>
+<h3>Latest position</h3><p>Eric is still on Orkney</p>
 ]]>
 </latest_position>
 </placemark>
+
+
+
 <placemark>
 <name>Skylar</name>
-<date_time>2017-12-10</date_time>
-<X>55.47494</X>
-<Y>-3.77528</Y>
+<date_time>2018-01-06</date_time>
+<X>55.46867</X>
+<Y>-3.81454</Y>
 <status>alive</status>
 <latest_position>
 <![CDATA[
@@ -6130,11 +6218,14 @@
 ]]>
 </latest_position>
 </placemark>
+
+
+
 <placemark>
 <name>Saorsa</name>
-<date_time>2017-12-01</date_time>
-<X>56.6835</X>
-<Y>-3.17659</Y>
+<date_time>2018-01-07</date_time>
+<X>56.74729</X>
+<Y>-3.17017</Y>
 <status>alive</status>
 <latest_position>
 <![CDATA[
@@ -6142,11 +6233,14 @@
 ]]>
 </latest_position>
 </placemark>
+
+
+
 <placemark>
 <name>Rannoch</name>
-<date_time>2017-12-10</date_time>
-<X>56.55769</X>
-<Y>-4.05723</Y>
+<date_time>2018-01-06</date_time>
+<X>56.50707</X>
+<Y>-3.85111</Y>
 <status>alive</status>
 <latest_position>
 <![CDATA[
