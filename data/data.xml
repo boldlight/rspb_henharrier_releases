@@ -6242,19 +6242,11 @@
 </placemark>
 
 
-
-
 <placemark>
 <name>Finn</name>
 <date_time>2017-12-10</date_time>
 <X>55.40353</X>
 <Y>-3.38877</Y>
-<status>alive</status>
-<latest_position>
-<![CDATA[
-<h3>Latest position</h3><p>Finn is exploring around South Lanarkshire and Dumfries and Galloway</p>
-]]>
-</latest_position>
 </placemark>
 
 <placemark>
@@ -6262,12 +6254,6 @@
 <date_time>2017-12-10</date_time>
 <X>52.43736</X>
 <Y>-3.35434</Y>
-<status>alive</status>
-<latest_position>
-<![CDATA[
-<h3>Latest position</h3><p>Lia is still settled in central Powys</p>
-]]>
-</latest_position>
 </placemark>
 
 <placemark>
@@ -6288,12 +6274,6 @@
 <date_time>2018-01-19</date_time>
 <X>57.11757</X>
 <Y>-3.07134</Y>
-<status>alive</status>
-<latest_position>
-<![CDATA[
-<h3>Latest position</h3><p>DeeCee has headed back up to Aberdeenshire</p>
-]]>
-</latest_position>
 </placemark>
 
 <placemark>
@@ -6301,12 +6281,6 @@
 <date_time>2018-01-21</date_time>
 <X>56.5787</X>
 <Y>-6.12989</Y>
-<status>alive</status>
-<latest_position>
-<![CDATA[
-<h3>Latest position</h3><p>Wendy is still on Mull</p>
-]]>
-</latest_position>
 </placemark>
 
 <placemark>
@@ -6314,12 +6288,6 @@
 <date_time>2018-01-21</date_time>
 <X>54.40656</X>
 <Y>-2.86377</Y>
-<status>alive</status>
-<latest_position>
-<![CDATA[
-<h3>Latest position</h3><p>Harriet is still in Cumbria</p>
-]]>
-</latest_position>
 </placemark>
 
 <placemark>
@@ -6327,12 +6295,6 @@
 <date_time>2018-01-20</date_time>
 <X>56.05237</X>
 <Y>-3.52955</Y>
-<status>alive</status>
-<latest_position>
-<![CDATA[
-<h3>Latest position</h3><p>Heather has headed south, stopping off near Stirling before heading towards Fife.</p>
-]]>
-</latest_position>
 </placemark>
 
 <placemark>
@@ -6340,12 +6302,6 @@
 <date_time>2018-01-21</date_time>
 <X>55.04478</X>
 <Y>-4.06769</Y>
-<status>alive</status>
-<latest_position>
-<![CDATA[
-<h3>Latest position</h3><p>Skylar has headed south to explore Dumfries and Galloway.</p>
-]]>
-</latest_position>
 </placemark>
 
 <placemark>
@@ -6366,12 +6322,6 @@
 <date_time>2018-01-21</date_time>
 <X>56.68629</X>
 <Y>-3.14703</Y>
-<status>alive</status>
-<latest_position>
-<![CDATA[
-<h3>Latest position</h3><p>Saorsa is still in Angus</p>
-]]>
-</latest_position>
 </placemark>
 
 <placemark>
@@ -6379,13 +6329,269 @@
 <date_time>2018-01-21</date_time>
 <X>56.5339</X>
 <Y>-3.9285</Y>
+</placemark>
+
+
+<placemark>
+<name>DeeCee</name>
+<date_time>2018-01-22</date_time>
+<X>57.11711</X>
+<Y>-3.06847</Y>
+</placemark>
+<placemark>
+<name>DeeCee</name>
+<date_time>2018-01-30</date_time>
+<X>57.12786</X>
+<Y>-3.24823</Y>
+</placemark>
+<placemark>
+<name>DeeCee</name>
+<date_time>2018-02-01</date_time>
+<X>57.04219</X>
+<Y>-2.80716</Y>
+</placemark>
+<placemark>
+<name>DeeCee</name>
+<date_time>2018-02-09</date_time>
+<X>57.0404</X>
+<Y>-2.81006</Y>
+</placemark>
+<placemark>
+<name>DeeCee</name>
+<date_time>2018-02-12</date_time>
+<X>56.95418</X>
+<Y>-2.60207</Y>
+</placemark>
+<placemark>
+<name>Wendy</name>
+<date_time>2018-02-04</date_time>
+<X>56.5787</X>
+<Y>-6.12989</Y>
+</placemark>
+<placemark>
+<name>Harriet</name>
+<date_time>2018-02-04</date_time>
+<X>54.42558</X>
+<Y>-2.80689</Y>
+</placemark>
+<placemark>
+<name>Heather</name>
+<date_time>2018-02-03</date_time>
+<X>56.13035</X>
+<Y>-3.43678</Y>
+</placemark>
+<placemark>
+<name>Skylar</name>
+<date_time>2018-01-22</date_time>
+<X>54.94482</X>
+<Y>-4.01676</Y>
+</placemark>
+<placemark>
+<name>Skylar</name>
+<date_time>2018-01-30</date_time>
+<X>55.46539</X>
+<Y>-3.77349</Y>
+</placemark>
+<placemark>
+<name>Skylar</name>
+<date_time>2018-02-01</date_time>
+<X>55.3783</X>
+<Y>-3.86818</Y>
+</placemark>
+<placemark>
+<name>Skylar</name>
+<date_time>2018-02-04</date_time>
+<X>55.4664</X>
+<Y>-3.77624</Y>
+</placemark>
+<placemark>
+<name>Skylar</name>
+<date_time>2018-02-05</date_time>
+<X>55.4671</X>
+<Y>-3.78049</Y>
+</placemark>
+<placemark>
+<name>Skylar</name>
+<date_time>2018-02-14</date_time>
+<X>55.36907</X>
+<Y>-3.85973</Y>
+</placemark>
+<placemark>
+<name>Saorsa</name>
+<date_time>2018-02-03</date_time>
+<X>56.74642</X>
+<Y>-3.16488</Y>
+</placemark>
+<placemark>
+<name>Saorsa</name>
+<date_time>2018-02-05</date_time>
+<X>56.74334</X>
+<Y>-3.27908</Y>
+</placemark>
+<placemark>
+<name>Saorsa</name>
+<date_time>2018-02-15</date_time>
+<X>56.58192</X>
+<Y>-3.25867</Y>
+</placemark>
+<placemark>
+<name>Rannoch</name>
+<date_time>2018-01-28</date_time>
+<X>56.54808</X>
+<Y>-4.05235</Y>
+</placemark>
+<placemark>
+<name>Rannoch</name>
+<date_time>2018-02-03</date_time>
+<X>56.52076</X>
+<Y>-3.83524</Y>
+</placemark>
+<placemark>
+<name>Rannoch</name>
+<date_time>2018-02-04</date_time>
+<X>56.55268</X>
+<Y>-4.04716</Y>
+</placemark>
+<placemark>
+<name>Rannoch</name>
+<date_time>2018-02-05</date_time>
+<X>56.55182</X>
+<Y>-4.05006</Y>
+</placemark>
+<placemark>
+<name>Rannoch</name>
+<date_time>2018-02-06</date_time>
+<X>56.52566</X>
+<Y>-3.8957</Y>
+</placemark>
+<placemark>
+<name>Rannoch</name>
+<date_time>2018-02-14</date_time>
+<X>56.58334</X>
+<Y>-3.89268</Y>
+</placemark>
+<placemark>
+<name>Lia</name>
+<date_time>2018-02-04</date_time>
+<X>52.38079</X>
+<Y>-3.48942</Y>
+</placemark>
+<placemark>
+<name>Finn</name>
+<date_time>2018-02-04</date_time>
+<X>55.3445</X>
+<Y>-3.91692</Y>
+</placemark>
+
+
+
+<placemark>
+<name>DeeCee</name>
+<date_time>2018-02-16</date_time>
+<X>56.93114</X>
+<Y>-2.87268</Y>
 <status>alive</status>
 <latest_position>
 <![CDATA[
-<h3>Latest position</h3><p>Rannoch is still in Perthshire</p>
+<h3>Latest position</h3><p>DeeCee has been exploring Aberdeenshire and Angus.</p>
 ]]>
 </latest_position>
 </placemark>
-
+<placemark>
+<name>Wendy</name>
+<date_time>2018-02-18</date_time>
+<X>56.58552</X>
+<Y>-6.09215</Y>
+<status>alive</status>
+<latest_position>
+<![CDATA[
+<h3>Latest position</h3><p>Wendy is still on Mull.</p>
+]]>
+</latest_position>
+</placemark>
+<placemark>
+<name>Harriet</name>
+<date_time>2018-02-18</date_time>
+<X>54.3939</X>
+<Y>-2.77012</Y>
+<status>alive</status>
+<latest_position>
+<![CDATA[
+<h3>Latest position</h3><p>Harriet is still in Cumbria.</p>
+]]>
+</latest_position>
+</placemark>
+<placemark>
+<name>Heather</name>
+<date_time>2018-02-17</date_time>
+<X>56.11192</X>
+<Y>-3.43414</Y>
+<status>alive</status>
+<latest_position>
+<![CDATA[
+<h3>Latest position</h3><p>Heather is still in Fife.</p>
+]]>
+</latest_position>
+</placemark>
+<placemark>
+<name>Skylar</name>
+<date_time>2018-02-18</date_time>
+<X>55.46532</X>
+<Y>-3.75353</Y>
+<status>alive</status>
+<latest_position>
+<![CDATA[
+<h3>Latest position</h3><p>Skylar is still in South Lanarkshire.</p>
+]]>
+</latest_position>
+</placemark>
+<placemark>
+<name>Saorsa</name>
+<date_time>2018-02-16</date_time>
+<X>56.7141</X>
+<Y>-3.07289</Y>
+<status>alive</status>
+<latest_position>
+<![CDATA[
+<h3>Latest position</h3><p>Saorsa is still in Angus.</p>
+]]>
+</latest_position>
+</placemark>
+<placemark>
+<name>Rannoch</name>
+<date_time>2018-02-18</date_time>
+<X>56.51703</X>
+<Y>-3.86442</Y>
+<status>alive</status>
+<latest_position>
+<![CDATA[
+<h3>Latest position</h3><p>Rannoch is still in Perthshire.</p>
+]]>
+</latest_position>
+</placemark>
+<placemark>
+<name>Lia</name>
+<date_time>2018-02-18</date_time>
+<X>52.40519</X>
+<Y>-3.48392</Y>
+<status>alive</status>
+<latest_position>
+<![CDATA[
+<h3>Latest position</h3><p>Lia is still in Central Powys.</p>
+]]>
+</latest_position>
+</placemark>
+<placemark>
+<name>Finn</name>
+<date_time>2008-02-18</date_time>
+<X>55.25798</X>
+<Y>-3.68064</Y>
+<status>alive</status>
+<latest_position>
+<![CDATA[
+<h3>Latest position</h3><p>Finn is still in South Lanarkshire.</p>
+]]>
+</latest_position>
+</placemark>
 
 </placemarks>
