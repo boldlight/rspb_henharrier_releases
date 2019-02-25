@@ -495,6 +495,42 @@ Chance arrives in France and settles down for her first winter (Nov-May) in the 
 </marker>
 
 
+<marker>
+<name>Doona</name>
+<date_time>2018-11-01</date_time>
+<X>54.236107</X>
+<Y>-4.548056</Y>
+<media/>
+<title><![CDATA[Doona starting out]]></title>
+<text><![CDATA[Isle of Man - Manx female]]></text>
+<link/>
+<button_text/>
+</marker>
+
+<marker>
+<name>Jonee</name>
+<date_time>2018-11-01</date_time>
+<X>54.236107</X>
+<Y>-4.548056</Y>
+<media/>
+<title><![CDATA[Jonee starting out]]></title>
+<text><![CDATA[Isle of  man - Manx female]]></text>
+<link/>
+<button_text/>
+</marker>
+
+<marker>
+<name>Yangie</name>
+<date_time>2018-11-01</date_time>
+<X>52.76643</X>
+<Y>-3.45246</Y>
+<media/>
+<title><![CDATA[Yangie starting out]]></title>
+<text><![CDATA[Wales - welsh female]]></text>
+<link/>
+<button_text/>
+</marker>
+
 
 
 </poi_markers>
