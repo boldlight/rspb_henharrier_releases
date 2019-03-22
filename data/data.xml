@@ -7763,43 +7763,12 @@
 </placemark>
 
 <placemark>
-<name>Jonee</name>
-<date_time>2018-11-02</date_time>
-<X>54.236107</X>
-<Y>-4.548056</Y>
-<status>alive</status>
-<latest_position>
-<![CDATA[
-<h3>Latest position</h3><p>Jonee's staring position.</p>
-]]>
-</latest_position>
-</placemark>
-
-<placemark>
 <name>Doona</name>
 <date_time>2018-11-02</date_time>
 <X>54.236107</X>
 <Y>-4.548056</Y>
-<status>alive</status>
-<latest_position>
-<![CDATA[
-<h3>Latest position</h3><p>Doona's staring position.</p>
-]]>
-</latest_position>
 </placemark>
 
-<placemark>
-<name>Yangie</name>
-<date_time>2018-11-02</date_time>
-<X>52.76643</X>
-<Y>-3.45246</Y>
-<status>alive</status>
-<latest_position>
-<![CDATA[
-<h3>Latest position</h3><p>Jonee's staring position.</p>
-]]>
-</latest_position>
-</placemark>
 
 <placemark>
 <name>DeeCee</name>
@@ -7873,12 +7842,6 @@
 <date_time>2019-01-31</date_time>
 <X>56.50153</X>
 <Y>-3.63531</Y>
-<status>alive</status>
-<latest_position>
-<![CDATA[
-<h3>Latest position</h3><p>Marci has remained in Perthshire.</p>
-]]>
-</latest_position>
 </placemark>
 <placemark>
 <name>Skylar</name>
@@ -7897,24 +7860,12 @@
 <date_time>2019-01-31</date_time>
 <X>54.15755</X>
 <Y>-8.99267</Y>
-<status>alive</status>
-<latest_position>
-<![CDATA[
-<h3>Latest position</h3><p>Thoth has remained in the Sligo area of Ireland.</p>
-]]>
-</latest_position>
 </placemark>
 <placemark>
 <name>Wendy</name>
 <date_time>2019-01-31</date_time>
 <X>56.47086</X>
 <Y>-6.18583</Y>
-<status>alive</status>
-<latest_position>
-<![CDATA[
-<h3>Latest position</h3><p>Wendy has remained on Ulva, Mull.</p>
-]]>
-</latest_position>
 </placemark>
 <placemark>
 <name>Harriet</name>
@@ -7969,24 +7920,12 @@
 <date_time>2019-01-29</date_time>
 <X>54.52976</X>
 <Y>-2.6495</Y>
-<status>alive</status>
-<latest_position>
-<![CDATA[
-<h3>Latest position</h3><p>A very site faithful individual with little movement away from the uplands county durham where she is content and doing well. Sharing her roost site with other birds.</p>
-]]>
-</latest_position>
 </placemark>
 <placemark>
 <name>Vulcan</name>
 <date_time>2019-01-09</date_time>
 <X>51.35806</X>
 <Y>-1.42447</Y>
-<status>alive</status>
-<latest_position>
-<![CDATA[
-<h3>Latest position</h3><p>He is very much favouring the prey rich Cotswolds.</p>
-]]>
-</latest_position>
 </placemark>
 <placemark>
 <name>Arthur</name>
@@ -8018,14 +7957,88 @@
 <date_time>2019-02-15</date_time>
 <X>53.278135</X>
 <Y>-4.3478977</Y>
+</placemark>
+
+
+<placemark>
+<name>Marci</name>
+<date_time>2019-02-02</date_time>
+<X>56.50208</X>
+<Y>-3.63328</Y>
+</placemark>
+
+<placemark>
+<name>Marci</name>
+<date_time>2019-02-28</date_time>
+<X>56.51626</X>
+<Y>-3.95858</Y>
 <status>alive</status>
 <latest_position>
 <![CDATA[
-<h3>Latest position</h3><p></p>
+<h3>Latest position</h3><p>Marci is still in Perthshire.</p>
 ]]>
 </latest_position>
 </placemark>
-
+<placemark>
+<name>Thoth</name>
+<date_time>2019-02-28</date_time>
+<X>54.15697</X>
+<Y>-9.0011</Y>
+<status>alive</status>
+<latest_position>
+<![CDATA[
+<h3>Latest position</h3><p>Thoth is still in the Sligo region of Ireland.</p>
+]]>
+</latest_position>
+</placemark>
+<placemark>
+<name>Wendy</name>
+<date_time>2019-02-22</date_time>
+<X>56.47501</X>
+<Y>-6.17804</Y>
+<status>alive</status>
+<latest_position>
+<![CDATA[
+<h3>Latest position</h3><p>Wendy is still on Ulva near Mull.</p>
+]]>
+</latest_position>
+</placemark>
+<placemark>
+<name>Rain</name>
+<date_time>2019-02-28</date_time>
+<X>54.727460</X>
+<Y>-1.9635259</Y>
+<status>alive</status>
+<latest_position>
+<![CDATA[
+<h3>Latest position</h3><p>Throughtout the 28 days in February this female didn’t venture away from her feeding and roosting site, clearly landed on her feet.</p>
+]]>
+</latest_position>
+</placemark>
+<placemark>
+<name>Doona</name>
+<date_time>2018-10-30</date_time>
+<X>53.304059</X>
+<Y>-4.314002</Y>
+<status>dead</status>
+<latest_position>
+<![CDATA[
+<h3>Latest position</h3><p>The birds tag went stopped transmitting in Anglesey.</p>
+]]>
+</latest_position>
+</placemark>
+<placemark>
+<name>Vulcan</name>
+<date_time>2019-01-16</date_time>
+<X>51.40654</X>
+<Y>-1.95904</Y>
+<status>dead</status>
+<latest_position>
+<![CDATA[
+<h3>Latest position</h3><p>This bird dissapeared offline in Wiltshire in suspicous circumstances.</p>
+]]>
+</latest_position>
+</placemark>
 
 
 </placemarks>
