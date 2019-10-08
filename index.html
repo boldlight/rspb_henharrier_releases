@@ -213,9 +213,9 @@ TRACKING MAP
           <div class="bird-controls" id="ada-controls" data-tracker="ada">
             <h3>Ada</h3>
             <a data-fancybox data-src="#ada-profile" href="javascript:;" class="btn btn-profile" id="btn-ada-profile"><img src="images/mapping/btn-profile.png" /><span class="mytooltip">Profile</span></a>
-            <a class="btn tracker-toggle" id="ada" href="#ada"><img src="images/mapping/btn-route.png" /><span class="mytooltip">Route</span></a>
-            <a class="btn live-toggle" id="ada-live" href="#ada-live"><img src="images/mapping/btn-latest.png" /><span class="mytooltip">Latest position</span></a>
-            <a class="btn poi-toggle" id="ada-poi" href="#ada-poi"><img src="images/mapping/btn-poi.png" /><span class="mytooltip">Points of interest</span></a>
+            <a class="btn tracker-toggle on" id="ada" href="#ada"><img src="images/mapping/btn-route.png" /><span class="mytooltip">Route</span></a>
+            <a class="btn live-toggle on" id="ada-live" href="#ada-live"><img src="images/mapping/btn-latest.png" /><span class="mytooltip">Latest position</span></a>
+            <a class="btn poi-toggle on" id="ada-poi" href="#ada-poi"><img src="images/mapping/btn-poi.png" /><span class="mytooltip">Points of interest</span></a>
           </div>
 
 
@@ -1017,16 +1017,17 @@ var wowslow = new WOW(
 
 <!-- MAPS API KEY LIVE -->
 
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBuXl33qB3Si5WqcpqQyVrF31E99s9tyWI&callback=initMap"></script>
+<!--<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBuXl33qB3Si5WqcpqQyVrF31E99s9tyWI&callback=initMap"></script>-->
 
 
 
 <!-- MAPS API KEY DEV-->
-<!--<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC_Ikp97uOu7dXGvzgNlqt3beQcjKlfiEo&callback=initMap"></script>-->
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC_Ikp97uOu7dXGvzgNlqt3beQcjKlfiEo&callback=initMap"></script>
 
 
 
 <!-- Google analytics - Uncomment for live-->
+<!--
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "https://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -1036,7 +1037,7 @@ var pageTracker = _gat._getTracker("UA-2621015-1");
 pageTracker._setDomainName(".rspb.org.uk");
 pageTracker._trackPageview();
 </script>
-
+-->
 
 
 </div><!-- end of .harrier-page-->

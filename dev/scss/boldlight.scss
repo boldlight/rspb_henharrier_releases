@@ -1,0 +1,75 @@
+/*
+Styles: RSPB Hen Harrier
+Author: BoldLight
+Author URI: http://boldlight.co.uk
+
+Stylesheet: All styles
+
+******************************************************************/
+
+
+//
+// IMPORTING STYLES
+//
+
+@import "mixins";
+
+@import "bootstrap";
+@import "bootstrap-responsive";
+
+@import "rspb";
+
+@import "animate.min";
+@import "jquery.fancybox.min";
+@import "ion.rangeSlider";
+@import "ion.rangeSlider.skinFlat";
+
+
+/*
+BASE (MOBILE) SIZE
+*/
+
+// styles in base.scss
+@import "base";
+
+
+/*
+LARGER MOBILE DEVICES
+*/
+@media only screen and (min-width: 481px) {
+
+	// styles in 481up.scss
+	@import "481up";
+
+} // end of media query
+
+/*
+TABLET & SMALLER LAPTOPS
+*/
+@media only screen and (min-width: 768px) {
+
+	// styles in 768up.scss
+	@import "768up";
+
+} // end of media query
+
+/*
+SMALL DESKTOP
+*/
+@media only screen and (min-width: 992px) {
+
+	// styles in 992up.scss
+	@import "992up";
+
+} // end of media query
+
+
+/*
+LARGE VIEWING SIZE
+*/
+@media only screen and (min-width: 1200px) {
+
+	// styles in 1200up.scss
+	@import "1200up";
+
+} // end of media query

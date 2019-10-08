@@ -1,0 +1,100 @@
+/*
+Styles: RSPB Hen Harrier
+Author: BoldLight
+Author URI: http://boldlight.co.uk
+
+Stylesheet: Desktop Stylsheet
+
+******************************************************************/
+
+.harrier-page{
+
+.site-header{
+	padding-top: 1.6em;
+	padding-bottom: 1em;
+
+	.inner .site-header__logo{
+
+		img{
+			display: inline!important;
+			width: 185px!important;
+			padding:0 0;
+		}
+	}
+}
+
+
+.skydancing-film{
+    width:480px;
+    height: auto;
+    margin: 0 0 30px 60px;
+    float: right;
+}
+
+.skydancer-film{
+    width:480px;
+    height: auto;
+    margin: 0 60px 30px 0;
+    float: left;
+
+}
+
+section.kids-activities{ 
+
+	text-align: left;
+	padding-top:80px;
+	padding-bottom: 80px;
+
+	h2{
+		text-align: center;
+		padding-bottom:20px;
+	}
+
+	.kids-info{
+		margin-top:50px;
+	}
+	.booklet-image{
+		float: left;
+		max-width: 480px;
+
+	}
+
+}
+
+
+/******* STYLES FOR TRACKING MAP ********/
+
+#harrier-map{
+	.time-slider-container{
+	width:40%;
+	float:left;
+	}
+	.overlay-buttons{
+	  width:60%;
+	  float: right;
+	}
+
+	.year-filter{
+  border-bottom: none;
+  padding-bottom: 8px;
+}
+
+}
+
+
+
+.deceased{
+  display:inline-block;
+  margin:0 0 0 0;
+
+  h3{
+  	display:block;
+    text-align:center;
+    border-bottom:1px solid $dark-grey;
+  }
+}
+
+
+
+} // End of .harrier-page
+

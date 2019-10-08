@@ -1,0 +1,209 @@
+/*
+Styles: RSPB Hen Harrier
+Author: BoldLight
+Author URI: http://boldlight.co.uk
+
+Stylesheet: Mixins
+
+******************************************************************/
+
+
+// COLORS
+
+$blue: #007ac9;
+$white: #ffffff;
+$black: #000000;
+$dark-grey: #414042;
+$light-grey: #eae8e4;
+
+
+
+$Red: #e6194b;
+$Green: #3cb44b;
+$Yellow: #ffe119;
+$Deep_blue: #0082c8;
+$Orange: #f58231;
+$Purple: #911eb4;
+$Cyan: #46f0f0;
+$Magenta: #f032e6;
+$Lime: #d2f53c;
+$Pink: #fabebe;
+$Teal: #008080;
+$Lavender: #e6beff;
+$Brown: #aa6e28;
+$Beige: #fffac8;
+$Maroon:  #800000;
+$Mint: #aaffc3;
+$Olive: #808000;
+$Coral: #ffd8b1;
+$Navy: #000080;
+$Grey: #808080;
+$Petrol: #0d9896;
+$Burnt_orange: #983505;
+$Salmon: #de7264;
+$Gold: #ba9640;
+$Red18: #855A5A;
+$Olive18: #879962;
+$Blue18: #59818D;
+$Purple18: #674C74;
+$Lavender18: #9C6D94;
+$Mint18: #83C098;
+$Salmon18: #CFA2A2;
+$Grey18: #8F8F8F;
+$Red19: #A00000;
+$Blue19: #004AAC;
+$Green19: #009458;
+
+
+// Bird colours
+$aalin: $Olive;
+$arthur: $Green;
+$beater: $Yellow;
+$bonny: $Deep_blue;
+$calluna: $Orange;
+$carroll: $Purple;
+$chance: $Cyan;
+$deecee: $Magenta;
+$donald: $Lime;
+$elwood: $Pink;
+$eric: $Teal;
+$finn: $Olive18;
+$harriet: $Brown;
+$heather: $Beige;
+$hermione: $Maroon;
+$holly: $Mint;
+$keen: $Red;
+$lia: $Coral;
+$mairie: $Navy;
+$manu: $Grey;
+$marci: $black;
+$nyx: $Petrol;
+$rain: $Burnt_orange;
+$rannoch: $Salmon;
+$saorsa: $Gold;
+$sirius: $Red18;
+$skylar: $Lavender;
+$thoth: $Blue18;
+$tony: $Purple18;
+$vulcan: $Mint18;
+$wendy: $Salmon18;
+$doona: $Red19;
+$jonee: $Blue19;
+$yangie: $Green19;
+
+$apollo: $Navy;
+$cyan: $Grey;
+$tornado: $black;
+$ada: $Petrol;
+$oscar: $Burnt_orange;
+$marko: $Salmon;
+$sheba: $Gold;
+$mary: $Red18;
+$maye: $Lavender;
+$gryff: $Blue18;
+$angharad: $Purple18;
+$thistle: $Mint18;
+
+
+
+@mixin btn($background,$background-active,$color){
+
+      display: inline-block;
+      padding:5px 10px;
+      margin: 5px;
+      text-decoration: none;
+      font-size: 13px;
+      font-weight: 900;
+      border-radius:3px;
+      text-transform: uppercase;
+      border: darken($background, 5);
+      background: $background;
+      color: $color;
+
+      &:hover{
+        border: lighten($background, 15);
+        cursor: hover;
+      }
+
+      &.on{
+        background: $background-active;
+        color: $color;
+
+        &:hover{
+          background: $background-active;
+          color: $color;
+        }
+      }
+
+}
+
+@mixin map-buttons($color){
+  .btn{
+    text-align: center;
+    position: relative;
+    padding: 5px;
+    margin:0px;
+    background:$black;
+    border: 1px solid $dark-grey;
+    color: $white;
+    height:20px;
+    width: 20px;
+
+    img{
+      width: auto;
+      height: 20px;
+      display: block;
+      margin:0 auto;
+    }
+
+    &:hover{
+      background: lighten($dark-grey, 15);
+    }
+  }
+  .btn.on{
+    color: $white;
+    background: $color;
+    border: 1px solid darken($color, 5);
+    &:hover{
+      background: darken($color, 5);
+    }
+  }
+}
+
+@mixin bird-controls($color){
+  border: 2px solid $color;
+  padding:8px;
+  margin:5px;
+  h3{
+    font-size: 16px;
+    color: $dark-grey;
+    margin:0 auto;
+  }
+}
+
+// TRANSITION EASING
+
+@mixin transition() {
+  -webkit-transition: all 0.5s ease-out, all 0.5s ease-out;
+  -moz-transition: all 0.5s ease-out, all 0.5s ease-out;
+  -o-transition: all 0.5s ease-out, all 0.5s ease-out;
+  -ms-transition: all 0.5s ease-out, all 0.5s ease-out;
+  transition: all 0.5s ease-out, all 0.5s ease-out;
+}
+
+@mixin transition-opacity() {
+  -webkit-transition: opacity 0.5s ease-in-out; 
+  -moz-transition: opacity 0.5s ease-in-out; 
+  -ms-transition: opacity 0.5s ease-in-out; 
+  -o-transition: opacity 0.5s ease-in-out; 
+  transition: opacity 0.5s ease-in-out;
+}
+
+
+// CLEARFIX
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
