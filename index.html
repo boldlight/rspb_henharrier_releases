@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+x<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -197,19 +197,151 @@ TRACKING MAP
         <div class="year-filter">
         <a class="btn on" href="#" rel="birds-live">Live birds</a>
         <div class="deceased">
-          <h3>Deceased</h3>
-          <a class="btn" href="#" rel="birds-2018">2018 tag</a>
+          <!--<h3>Deceased</h3>-->
+          <a class="btn" href="#" rel="birds-deceased">Deceased birds</a>
+          <!--
           <a class="btn" href="#" rel="birds-2017">2017 tag</a>
           <a class="btn" href="#" rel="birds-2016">2016 tag</a>
           <a class="btn" href="#" rel="birds-2015">2015 tag</a>
+        -->
         </div>
         </div>
         <div class="year-group" id="birds-live">
         <p>The latest data will be added here once the birds leave their nesting grounds.</p>
 
 
+          <div class="bird-controls" id="ada-controls" data-tracker="ada">
+            <h3>Ada</h3>
+            <a data-fancybox data-src="#ada-profile" href="javascript:;" class="btn btn-profile" id="btn-ada-profile"><img src="images/mapping/btn-profile.png" /><span class="mytooltip">Profile</span></a>
+            <a class="btn tracker-toggle" id="ada" href="#ada"><img src="images/mapping/btn-route.png" /><span class="mytooltip">Route</span></a>
+            <a class="btn live-toggle" id="ada-live" href="#ada-live"><img src="images/mapping/btn-latest.png" /><span class="mytooltip">Latest position</span></a>
+            <a class="btn poi-toggle" id="ada-poi" href="#ada-poi"><img src="images/mapping/btn-poi.png" /><span class="mytooltip">Points of interest</span></a>
+          </div>
 
 
+          <div class="bird-controls" id="angharad-controls" data-tracker="angharad">
+            <h3>Angharad</h3>
+            <a data-fancybox data-src="#angharad-profile" href="javascript:;" class="btn btn-profile" id="btn-angharad-profile"><img src="images/mapping/btn-profile.png" /><span class="mytooltip">Profile</span></a>
+            <a class="btn tracker-toggle" id="angharad" href="#angharad"><img src="images/mapping/btn-route.png" /><span class="mytooltip">Route</span></a>
+            <a class="btn live-toggle" id="angharad-live" href="#angharad-live"><img src="images/mapping/btn-latest.png" /><span class="mytooltip">Latest position</span></a>
+            <a class="btn poi-toggle" id="angharad-poi" href="#angharad-poi"><img src="images/mapping/btn-poi.png" /><span class="mytooltip">Points of interest</span></a>
+          </div>
+
+
+          <div class="bird-controls" id="apollo-controls" data-tracker="apollo">
+            <h3>Apollo</h3>
+            <a data-fancybox data-src="#apollo-profile" href="javascript:;" class="btn btn-profile" id="btn-apollo-profile"><img src="images/mapping/btn-profile.png" /><span class="mytooltip">Profile</span></a>
+            <a class="btn tracker-toggle" id="apollo" href="#apollo"><img src="images/mapping/btn-route.png" /><span class="mytooltip">Route</span></a>
+            <a class="btn live-toggle" id="apollo-live" href="#apollo-live"><img src="images/mapping/btn-latest.png" /><span class="mytooltip">Latest position</span></a>
+            <a class="btn poi-toggle" id="apollo-poi" href="#apollo-poi"><img src="images/mapping/btn-poi.png" /><span class="mytooltip">Points of interest</span></a>
+          </div>
+
+
+          <div class="bird-controls" id="cyan-controls" data-tracker="cyan">
+            <h3>Cyan</h3>
+            <a data-fancybox data-src="#cyan-profile" href="javascript:;" class="btn btn-profile" id="btn-cyan-profile"><img src="images/mapping/btn-profile.png" /><span class="mytooltip">Profile</span></a>
+            <a class="btn tracker-toggle" id="cyan" href="#cyan"><img src="images/mapping/btn-route.png" /><span class="mytooltip">Route</span></a>
+            <a class="btn live-toggle" id="cyan-live" href="#cyan-live"><img src="images/mapping/btn-latest.png" /><span class="mytooltip">Latest position</span></a>
+            <a class="btn poi-toggle" id="cyan-poi" href="#cyan-poi"><img src="images/mapping/btn-poi.png" /><span class="mytooltip">Points of interest</span></a>
+          </div>
+
+          <div class="bird-controls" id="gryff-controls" data-tracker="gryff">
+            <h3>Gryff</h3>
+            <a data-fancybox data-src="#gryff-profile" href="javascript:;" class="btn btn-profile" id="btn-gryff-profile"><img src="images/mapping/btn-profile.png" /><span class="mytooltip">Profile</span></a>
+            <a class="btn tracker-toggle" id="gryff" href="#gryff"><img src="images/mapping/btn-route.png" /><span class="mytooltip">Route</span></a>
+            <a class="btn live-toggle" id="gryff-live" href="#gryff-live"><img src="images/mapping/btn-latest.png" /><span class="mytooltip">Latest position</span></a>
+            <a class="btn poi-toggle" id="gryff-poi" href="#gryff-poi"><img src="images/mapping/btn-poi.png" /><span class="mytooltip">Points of interest</span></a>
+          </div>
+
+
+          <div class="bird-controls" id="marko-controls" data-tracker="marko">
+            <h3>Marko</h3>
+            <a data-fancybox data-src="#marko-profile" href="javascript:;" class="btn btn-profile" id="btn-marko-profile"><img src="images/mapping/btn-profile.png" /><span class="mytooltip">Profile</span></a>
+            <a class="btn tracker-toggle" id="marko" href="#marko"><img src="images/mapping/btn-route.png" /><span class="mytooltip">Route</span></a>
+            <a class="btn live-toggle" id="marko-live" href="#marko-live"><img src="images/mapping/btn-latest.png" /><span class="mytooltip">Latest position</span></a>
+            <a class="btn poi-toggle" id="marko-poi" href="#marko-poi"><img src="images/mapping/btn-poi.png" /><span class="mytooltip">Points of interest</span></a>
+          </div>
+
+
+          <div class="bird-controls" id="mary-controls" data-tracker="mary">
+            <h3>Mary</h3>
+            <a data-fancybox data-src="#mary-profile" href="javascript:;" class="btn btn-profile" id="btn-mary-profile"><img src="images/mapping/btn-profile.png" /><span class="mytooltip">Profile</span></a>
+            <a class="btn tracker-toggle" id="mary" href="#mary"><img src="images/mapping/btn-route.png" /><span class="mytooltip">Route</span></a>
+            <a class="btn live-toggle" id="mary-live" href="#mary-live"><img src="images/mapping/btn-latest.png" /><span class="mytooltip">Latest position</span></a>
+            <a class="btn poi-toggle" id="mary-poi" href="#mary-poi"><img src="images/mapping/btn-poi.png" /><span class="mytooltip">Points of interest</span></a>
+          </div>
+
+          <div class="bird-controls" id="maye-controls" data-tracker="maye">
+            <h3>Maye</h3>
+            <a data-fancybox data-src="#maye-profile" href="javascript:;" class="btn btn-profile" id="btn-maye-profile"><img src="images/mapping/btn-profile.png" /><span class="mytooltip">Profile</span></a>
+            <a class="btn tracker-toggle" id="maye" href="#maye"><img src="images/mapping/btn-route.png" /><span class="mytooltip">Route</span></a>
+            <a class="btn live-toggle" id="maye-live" href="#maye-live"><img src="images/mapping/btn-latest.png" /><span class="mytooltip">Latest position</span></a>
+            <a class="btn poi-toggle" id="maye-poi" href="#maye-poi"><img src="images/mapping/btn-poi.png" /><span class="mytooltip">Points of interest</span></a>
+          </div>
+
+
+          <div class="bird-controls" id="oscar-controls" data-tracker="oscar">
+            <h3>Oscar</h3>
+            <a data-fancybox data-src="#oscar-profile" href="javascript:;" class="btn btn-profile" id="btn-oscar-profile"><img src="images/mapping/btn-profile.png" /><span class="mytooltip">Profile</span></a>
+            <a class="btn tracker-toggle" id="oscar" href="#oscar"><img src="images/mapping/btn-route.png" /><span class="mytooltip">Route</span></a>
+            <a class="btn live-toggle" id="oscar-live" href="#oscar-live"><img src="images/mapping/btn-latest.png" /><span class="mytooltip">Latest position</span></a>
+            <a class="btn poi-toggle" id="oscar-poi" href="#oscar-poi"><img src="images/mapping/btn-poi.png" /><span class="mytooltip">Points of interest</span></a>
+          </div>
+
+
+          <div class="bird-controls" id="sheba-controls" data-tracker="sheba">
+            <h3>Sheba</h3>
+            <a data-fancybox data-src="#sheba-profile" href="javascript:;" class="btn btn-profile" id="btn-sheba-profile"><img src="images/mapping/btn-profile.png" /><span class="mytooltip">Profile</span></a>
+            <a class="btn tracker-toggle" id="sheba" href="#sheba"><img src="images/mapping/btn-route.png" /><span class="mytooltip">Route</span></a>
+            <a class="btn live-toggle" id="sheba-live" href="#sheba-live"><img src="images/mapping/btn-latest.png" /><span class="mytooltip">Latest position</span></a>
+            <a class="btn poi-toggle" id="sheba-poi" href="#sheba-poi"><img src="images/mapping/btn-poi.png" /><span class="mytooltip">Points of interest</span></a>
+          </div>
+
+
+          <div class="bird-controls" id="tornado-controls" data-tracker="tornado">
+            <h3>Tornado</h3>
+            <a data-fancybox data-src="#tornado-profile" href="javascript:;" class="btn btn-profile" id="btn-tornado-profile"><img src="images/mapping/btn-profile.png" /><span class="mytooltip">Profile</span></a>
+            <a class="btn tracker-toggle" id="tornado" href="#tornado"><img src="images/mapping/btn-route.png" /><span class="mytooltip">Route</span></a>
+            <a class="btn live-toggle" id="tornado-live" href="#tornado-live"><img src="images/mapping/btn-latest.png" /><span class="mytooltip">Latest position</span></a>
+            <a class="btn poi-toggle" id="tornado-poi" href="#tornado-poi"><img src="images/mapping/btn-poi.png" /><span class="mytooltip">Points of interest</span></a>
+          </div>
+
+
+
+        
+
+
+          <div class="bird-controls" id="thoth-controls" data-tracker="thoth">
+            <h3>Thoth</h3>
+            <a data-fancybox data-src="#thoth-profile" href="javascript:;" class="btn btn-profile" id="btn-thoth-profile"><img src="images/mapping/btn-profile.png" /><span class="mytooltip">Profile</span></a>
+            <a class="btn tracker-toggle" id="thoth" href="#thoth"><img src="images/mapping/btn-route.png" /><span class="mytooltip">Route</span></a>
+            <a class="btn live-toggle" id="thoth-live" href="#thoth-live"><img src="images/mapping/btn-latest.png" /><span class="mytooltip">Latest position</span></a>
+            <a class="btn poi-toggle" id="thoth-poi" href="#thoth-poi"><img src="images/mapping/btn-poi.png" /><span class="mytooltip">Points of interest</span></a>
+          </div>
+
+
+
+
+          <div class="bird-controls" id="wendy-controls" data-tracker="wendy">
+            <h3>Wendy</h3>
+            <a data-fancybox data-src="#wendy-profile" href="javascript:;" class="btn btn-profile" id="btn-wendy-profile"><img src="images/mapping/btn-profile.png" /><span class="mytooltip">Profile</span></a>
+            <a class="btn tracker-toggle" id="wendy" href="#wendy"><img src="images/mapping/btn-route.png" /><span class="mytooltip">Route</span></a>
+            <a class="btn live-toggle" id="wendy-live" href="#wendy-live"><img src="images/mapping/btn-latest.png" /><span class="mytooltip">Latest position</span></a>
+            <a class="btn poi-toggle" id="wendy-poi" href="#wendy-poi"><img src="images/mapping/btn-poi.png" /><span class="mytooltip">Points of interest</span></a>
+          </div>
+
+
+
+          
+
+        </div>
+
+
+        <div class="year-group" id="birds-deceased">
+        <p>These birds are, sadly, no longer alive.</p>
+
+
+        <!-- DECEASED AT START OF 2019 SEASON -->
 
         <div class="bird-controls" id="deecee-controls" data-tracker="deecee">
             <h3>Deecee</h3>
@@ -218,12 +350,6 @@ TRACKING MAP
             <a class="btn live-toggle" id="deecee-live" href="#deecee-live"><img src="images/mapping/btn-latest.png" /><span class="mytooltip">Latest position</span></a>
             <a class="btn poi-toggle" id="deecee-poi" href="#deecee-poi"><img src="images/mapping/btn-poi.png" /><span class="mytooltip">Points of interest</span></a>
           </div>
-
-    
-
-
-
-
 
      
         <div class="bird-controls" id="mairie-controls" data-tracker="mairie">
@@ -267,35 +393,10 @@ TRACKING MAP
           </div>
 
 
-          <div class="bird-controls" id="thoth-controls" data-tracker="thoth">
-            <h3>Thoth</h3>
-            <a data-fancybox data-src="#thoth-profile" href="javascript:;" class="btn btn-profile" id="btn-thoth-profile"><img src="images/mapping/btn-profile.png" /><span class="mytooltip">Profile</span></a>
-            <a class="btn tracker-toggle" id="thoth" href="#thoth"><img src="images/mapping/btn-route.png" /><span class="mytooltip">Route</span></a>
-            <a class="btn live-toggle" id="thoth-live" href="#thoth-live"><img src="images/mapping/btn-latest.png" /><span class="mytooltip">Latest position</span></a>
-            <a class="btn poi-toggle" id="thoth-poi" href="#thoth-poi"><img src="images/mapping/btn-poi.png" /><span class="mytooltip">Points of interest</span></a>
-          </div>
+          <!-- END OF DECEASED 2019 -->
+           
 
-
-
-
-          <div class="bird-controls" id="wendy-controls" data-tracker="wendy">
-            <h3>Wendy</h3>
-            <a data-fancybox data-src="#wendy-profile" href="javascript:;" class="btn btn-profile" id="btn-wendy-profile"><img src="images/mapping/btn-profile.png" /><span class="mytooltip">Profile</span></a>
-            <a class="btn tracker-toggle" id="wendy" href="#wendy"><img src="images/mapping/btn-route.png" /><span class="mytooltip">Route</span></a>
-            <a class="btn live-toggle" id="wendy-live" href="#wendy-live"><img src="images/mapping/btn-latest.png" /><span class="mytooltip">Latest position</span></a>
-            <a class="btn poi-toggle" id="wendy-poi" href="#wendy-poi"><img src="images/mapping/btn-poi.png" /><span class="mytooltip">Points of interest</span></a>
-          </div>
-
-
-
-          
-
-        </div>
-
-
-        <div class="year-group" id="birds-2018">
-        <p>These birds were tagged in 2018 but are, sadly, no longer alive.</p>
-
+        <!-- START 2018 BIRDS -->
          <div class="bird-controls" id="arthur-controls" data-tracker="arthur">
             <h3>Arthur</h3>
             <a data-fancybox data-src="#arthur-profile" href="javascript:;" class="btn btn-profile" id="btn-arthur-profile"><img src="images/mapping/btn-profile.png" /><span class="mytooltip">Profile</span></a>
@@ -336,13 +437,10 @@ TRACKING MAP
             <a class="btn live-toggle" id="vulcan-live" href="#vulcan-live"><img src="images/mapping/btn-latest.png" /><span class="mytooltip">Latest position</span></a>
             <a class="btn poi-toggle" id="vulcan-poi" href="#vulcan-poi"><img src="images/mapping/btn-poi.png" /><span class="mytooltip">Points of interest</span></a>
           </div>
+          <!-- END 2018 BIRDS -->
 
 
-        </div>
-
-
-        <div class="year-group" id="birds-2017">
-        <p>These birds were tagged in 2017 but are, sadly, no longer alive.</p>
+          <!-- START 2017 BIRDS -->
 
           <div class="bird-controls" id="calluna-controls" data-tracker="calluna">
             <h3>Calluna</h3>
@@ -351,8 +449,6 @@ TRACKING MAP
             <a class="btn live-toggle" id="calluna-live" href="#calluna-live"><img src="images/mapping/btn-latest.png" /><span class="mytooltip">Latest position</span></a>
             <a class="btn poi-toggle" id="calluna-poi" href="#calluna-poi"><img src="images/mapping/btn-poi.png" /><span class="mytooltip">Points of interest</span></a>
           </div>
-
-
 
           <div class="bird-controls" id="eric-controls" data-tracker="eric">
             <h3>Eric</h3>
@@ -420,13 +516,9 @@ TRACKING MAP
             <a class="btn live-toggle" id="tony-live" href="#tony-live"><img src="images/mapping/btn-latest.png" /><span class="mytooltip">Latest position</span></a>
             <a class="btn poi-toggle" id="tony-poi" href="#tony-poi"><img src="images/mapping/btn-poi.png" /><span class="mytooltip">Points of interest</span></a>
           </div>
+          <!-- END OF 2017 -->
 
-          
-
-
-        </div>
-        <div class="year-group" id="birds-2016">
-          <p>These birds were tagged in 2016 but are, sadly, no longer alive.</p>
+          <!-- START 2016 BIRDS -->
 
           <div class="bird-controls" id="aalin-controls" data-tracker="aalin">
             <h3>Aalin</h3>
@@ -504,10 +596,11 @@ TRACKING MAP
             <a class="btn poi-toggle" id="hermione-poi" href="#hermione-poi"><img src="images/mapping/btn-poi.png" /><span class="mytooltip">Points of interest</span></a>
           </div>
 
-        </div>
-        <div class="year-group" id="birds-2015">
-          <p>These birds were tagged in 2015 but are, sadly, no longer alive.</p>
 
+          <!-- END 2016 BIRDS -->
+
+
+          <!-- START 2015 BIRDS -->
 
           <div class="bird-controls" id="chance-controls" data-tracker="chance">
             <h3>Chance</h3>
@@ -524,7 +617,15 @@ TRACKING MAP
             <a class="btn live-toggle" id="holly-live" href="#holly-live"><img src="images/mapping/btn-latest.png" /><span class="mytooltip">Latest position</span></a>
             <a class="btn poi-toggle" id="holly-poi" href="#holly-poi"><img src="images/mapping/btn-poi.png" /><span class="mytooltip">Points of interest</span></a>
           </div>
+
+          <!-- END 2015 BIRDS -->
+
         </div>
+
+
+        
+        
+        
 
         </div>   
       </div>
@@ -925,9 +1026,7 @@ var wowslow = new WOW(
 
 
 
-
 <!-- Google analytics - Uncomment for live-->
-<!--
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "https://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -937,7 +1036,7 @@ var pageTracker = _gat._getTracker("UA-2621015-1");
 pageTracker._setDomainName(".rspb.org.uk");
 pageTracker._trackPageview();
 </script>
--->
+
 
 
 </div><!-- end of .harrier-page-->
@@ -952,6 +1051,32 @@ pageTracker._trackPageview();
 <p>Aalin was the biggest and strongest of a brood of three chicks to fledge from a nest on the Isle of Man in July 2016. This is the second year in a row that a hen harrier has been satellite tagged by RSPB and Manx BirdLife, after another young female, Hetty, was tagged at a separate location on the Isle of Man, in 2015. <a href="https://www.rspb.org.uk/community/ourwork/skydancer/b/skydancer/archive/2015/09/04/sad-news-from-the-isle-of-man.aspx" target="_blank">Read more about Hetty's story</a>.</p>
 </div>
 
+
+<div class="profile" id="ada-profile">
+<div class="header">
+<div class="avatar"><img src="images/birds/ada.jpg" alt="Ada"/></div>
+<h1>A profile of Ada</h1>
+</div>
+<p>Ada is a young female who fledged from a nest in the Scottish borders along with her two brothers. We look forward to seeing her journey unfold as she leaves the national nature reserve and heads out into the world.</p>
+</div>
+
+
+<div class="profile" id="angharad-profile">
+<div class="header">
+<div class="avatar"><img src="images/birds/angharad.jpg" alt="Angharad"/></div>
+<h1>A profile of Angharad</h1>
+</div>
+<p>Angharad is a female bird who fledged from a Welsh nest. We're incredibly grateful to our colleagues and volunteers at RSPB Cymru who kept an eye on the nests for us, as well as the landowners who allowed us access. We hope to understand more about the lives of these birds.</p>
+</div>
+
+
+<div class="profile" id="apollo-profile">
+<div class="header">
+<div class="avatar"><img src="images/birds/apollo.jpg" alt="Apollo"/></div>
+<h1>A profile of Apollo</h1>
+</div>
+<p>Apollo is a male hen harrier, tagged in the Forest of Bowland, one of 22 chicks to fledge from five nests in this area in 2019. Our team worked round the clock to protect the young birds.</p>
+</div>
 
 
 <div class="profile" id="arthur-profile">
@@ -1015,6 +1140,15 @@ pageTracker._trackPageview();
 </div>
 
 
+<div class="profile" id="cyan-profile">
+<div class="header">
+<div class="avatar"><img src="images/birds/cyan.jpg" alt="Cyan"/></div>
+<h1>A profile of Cyan</h1>
+</div>
+<p>Cyan is a female bird, tagged in the Forest of Bowland. She and her siblings fledged from the United Utilities estate, who strive to achieve a balance between encouraging public access and protecting water quality, wildlife and habitats. We have been working in successful partnership with UU for years.</p>
+</div>
+
+
 <div class="profile" id="deecee-profile">
 <div class="header">
 <div class="avatar"><img src="images/birds/deecee.jpg" alt="Deecee"/></div>
@@ -1022,8 +1156,6 @@ pageTracker._trackPageview();
 </div>
 <p>DeeCee was one of four chicks to fledge from a hen harrier nest on an estate in Perthshire, in Central Scotland. Alongside her brother and two sisters, DeeCee was carefully monitored and protected in the nest by members of the Scottish Raptor Study Group, with permission and support from the landowner.</p>
 </div>
-
-
 
 
 <div class="profile" id="donald-profile">
@@ -1052,7 +1184,7 @@ pageTracker._trackPageview();
 <div class="avatar"><img src="images/birds/eric.jpg" alt="Eric"/></div>
 <h1>A profile of Eric</h1>
 </div>
-<p>Eric is a young male who was one of five chicks to fledge from a nest in the Orphir Hills area of Orkney in July 2017. Eric’s nest was monitored and protected by RSPB staff in partnership with local raptor workers. Eric was named by staff at the RSPB in memory of their late friend and colleague Eric Meek, who dedicated his life to studying, monitoring, and protecting the special wildlife and habitats on Orkney including the rare hen harrier.</p>
+<p>Eric is a young male who was one of five chicks to fledge from a nest in the Orphir Hills area of Orkney in July 2017. Eric's nest was monitored and protected by RSPB staff in partnership with local raptor workers. Eric was named by staff at the RSPB in memory of their late friend and colleague Eric Meek, who dedicated his life to studying, monitoring, and protecting the special wildlife and habitats on Orkney including the rare hen harrier.</p>
 </div>
 
 
@@ -1063,6 +1195,16 @@ pageTracker._trackPageview();
 </div>
 <p>Finn and her three brothers fledged from one of two nests on Forestry Commission land in Northumberland in August 2016, two of only three nests in the whole of England this year. Both nests were protected by the Northumberland Hen Harrier Protection Partnership, which includes the Forestry Commission, MOD, Natural England, Northumberland National Park Authority, Northumberland Wildlife Trust, RSPB, Northumbria Police and local raptor workers. Finn's brother was also satellite-tagged by Natural England. <a href="https://www.rspb.org.uk/community/ourwork/skydancer/b/skydancer/archive/2016/03/21/nile-the-hen-harrier-helps-the-conservation-of-his-species.aspx" target="_blank">Read more about Nile's story</a>.</p>
 </div>
+
+
+<div class="profile" id="gryff-profile">
+<div class="header">
+<div class="avatar"><img src="images/birds/gryff.jpg" alt="Gryff"/></div>
+<h1>A profile of Gryff</h1>
+</div>
+<p>Gryff is a male hen harrier who fledged from a nest in North Wales. His name means 'strong' in Welsh.</p>
+</div>
+
 
 
 <div class="profile" id="harriet-profile">
@@ -1149,7 +1291,7 @@ pageTracker._trackPageview();
 <div class="avatar"><img src="images/birds/mairie.jpg" alt="Mairie"/></div>
 <h1>A profile of Mairie</h1>
 </div>
-<p>Mairie is a female hen harrier who fledged on the Hebridean island of Mull in June 2017. She is the second hen harrier to be satellite tagged on Mull by the Hen Harrier LIFE Project, after another female, Hermione, in 2016.</p>
+<p>Mairie was a female hen harrier who fledged on the Hebridean island of Mull in June 2017. She was the second hen harrier to be satellite tagged on Mull by the Hen Harrier LIFE Project, after another female, Hermione, in 2016.</p>
  
 <p>Mairie was named by a private individual who, in the company of many on Mull, kindly donated towards the satellite tagging project.
 </p>
@@ -1162,8 +1304,37 @@ pageTracker._trackPageview();
 <div class="avatar"><img src="images/birds/marci.jpg" alt="Marci"/></div>
 <h1>A profile of Marci</h1>
 </div>
-<p>Marci is a female chick and the third bird to be tagged at Mar Lodge, one of several chicks born there in 2018. Harriet and Calluna were also tagged there in 2016 and 2017 respectively.</p>
+<p>Marci was a female chick and the third bird to be tagged at Mar Lodge, one of several chicks born there in 2018. Harriet and Calluna were also tagged there in 2016 and 2017 respectively.</p>
 </div>
+
+
+<div class="profile" id="mary-profile">
+<div class="header">
+<div class="avatar"><img src="images/birds/mary.jpg" alt="Mary"/></div>
+<h1>A profile of Mary</h1>
+</div>
+<p>Mary is a female hen harrier who fledged alongside her sister from a nest on the Isle of Man. We're very grateful to the staff at Manx Birdlife and the Isle of Man government for helping to monitor the nest and allowing us to visit it.</p>
+</div>
+
+
+<div class="profile" id="maye-profile">
+<div class="header">
+<div class="avatar"><img src="images/birds/maye.jpg" alt="Maye"/></div>
+<h1>A profile of Maye</h1>
+</div>
+<p>Maye is a female bird tagged on the Isle of Man. We're worried because the Manx population of hen harriers is declining and we're not sure why. We hope that by tagging Maye and other Manx birds we can better understand what's happening to them and help the government and Manx Birdlife to protect them.</p>
+</div>
+
+
+
+<div class="profile" id="marko-profile">
+<div class="header">
+<div class="avatar"><img src="images/birds/marko.jpg" alt="Marko"/></div>
+<h1>A profile of Marko</h1>
+</div>
+<p>Marko is a male hen harrier who fledged from a nest on the National Trust for Scotland's Mar Lodge Estate. This is the fourth summer that we've tagged young birds at Mar Lodge, and we're incredibly grateful for the team's support.</p>
+</div>
+
 
 
 <div class="profile" id="nyx-profile">
@@ -1175,12 +1346,22 @@ pageTracker._trackPageview();
 </div>
 
 
+<div class="profile" id="oscar-profile">
+<div class="header">
+<div class="avatar"><img src="images/birds/oscar.jpg" alt="Oscar"/></div>
+<h1>A profile of Oscar</h1>
+</div>
+<p>Oscar is a male hen harrier who, along with his brother, fledged from a nest that is part of the small hen harrier population remaining in the Scottish borders.  We are very grateful to the Lothian & Borders raptor study group who monitored the nest and arranged for us to tag the chicks.</p>
+</div>
+
+
+
 <div class="profile" id="rain-profile">
 <div class="header">
 <div class="avatar"><img src="images/birds/rain.jpg" alt="Rain"/></div>
 <h1>A profile of Rain</h1>
 </div>
-<p>Rain was tagged in the Forest of Bowland, and came from a nest of five chicks. She's one of the first hen harrier chicks to be successfully raised in Bowland since 2015.</p>
+<p>Rain was tagged in the Forest of Bowland, and came from a nest of five chicks. She was one of the first hen harrier chicks to be successfully raised in Bowland since 2015.</p>
 </div>
 
 
@@ -1191,6 +1372,16 @@ pageTracker._trackPageview();
 </div>
 <p>Female hen harrier, Rannoch, is one of two chicks to have fledged from a nest on land owned and managed by Forestry Enterprise Scotland (FES), in Perthshire, in July 2017. She was satellite tagged by the RSPB in partnership with local members of the Scottish Raptor Study Group and FES, who together, monitored her nest.</p>
 </div>
+
+
+<div class="profile" id="sheba-profile">
+<div class="header">
+<div class="avatar"><img src="images/birds/sheba.jpg" alt="Sheba"/></div>
+<h1>A profile of Sheba</h1>
+</div>
+<p>Sheba is a female hen harrier tagged on a privately owned estate in Argyll. It's the first time the landowners have seen hen harriers, and they're just as excited as we are to follow her progress.</p>
+</div>
+
 
 
 <div class="profile" id="sirius-profile">
@@ -1207,7 +1398,7 @@ pageTracker._trackPageview();
 <div class="avatar"><img src="images/birds/saorsa.jpg" alt="Saorsa"/></div>
 <h1>A profile of Saorsa</h1>
 </div>
-<p>Female, Saorsa, was one of four chicks to fledge from a nest on a private estate in Ross-shire, in June 2017. Her nest was monitored and protected, with the support of the landowner, as part of the Partnership for Action against Wildlife crime in Scotland (PAW Scotland)’s Heads Up for Harriers scheme. Her name was chosen by the landowner after the Gaelic word for "freedom".</p>
+<p>Female, Saorsa, was one of four chicks to fledge from a nest on a private estate in Ross-shire, in June 2017. Her nest was monitored and protected, with the support of the landowner, as part of the Partnership for Action against Wildlife crime in Scotland (PAW Scotland)'s Heads Up for Harriers scheme. Her name was chosen by the landowner after the Gaelic word for "freedom".</p>
 </div>
 
 
@@ -1216,7 +1407,7 @@ pageTracker._trackPageview();
 <div class="avatar"><img src="images/birds/skylar.jpg" alt="Skylar"/></div>
 <h1>A profile of Skylar</h1>
 </div>
-<p>Skylar is a female who, alongside her brother, Sirius, was one of three chicks to fledge from a nest in Argyll, on land owned and managed by Forestry Enterprise Scotland (FES) in July 2017. Skylar and her siblings are the first offspring to be produced by our 2016 female, DeeCee, who herself fledged from community-owned land in Perthshire. Skylar's name was chosen as the winner of an online poll run by @RSPB_Skydancer, in which over 1,600 people took part. </p>
+<p>Skylar was a female who, alongside her brother, Sirius, was one of three chicks to fledge from a nest in Argyll, on land owned and managed by Forestry Enterprise Scotland (FES) in July 2017. Skylar and her siblings were the first offspring to be produced by our 2016 female, DeeCee, who herself fledged from community-owned land in Perthshire. Skylar's name was chosen as the winner of an online poll run by @RSPB_Skydancer, in which over 1,600 people took part.</p>
 </div>
 
 
@@ -1234,7 +1425,16 @@ pageTracker._trackPageview();
 <div class="avatar"><img src="images/birds/tony.jpg" alt="Tony"/></div>
 <h1>A profile of Tony</h1>
 </div>
-<p>Tony is one of three chicks to have fledged from a nest at HM Naval Base Clyde’s high security Coulport site in July 2017. The security at the base that protects the submarine service also provides a sanctuary for hen harriers and local MoD Police play an active role in monitoring any nesting attempts alongside experienced local raptor workers. Tony was named by MoD Police Officer John Simpson, in memory of his brother.</p>
+<p>Tony is one of three chicks to have fledged from a nest at HM Naval Base Clyde's high security Coulport site in July 2017. The security at the base that protects the submarine service also provides a sanctuary for hen harriers and local MoD Police play an active role in monitoring any nesting attempts alongside experienced local raptor workers. Tony was named by MoD Police Officer John Simpson, in memory of his brother.</p>
+</div>
+
+
+<div class="profile" id="tornado-profile">
+<div class="header">
+<div class="avatar"><img src="images/birds/tornado.jpg" alt="Tornado"/></div>
+<h1>A profile of Tornado</h1>
+</div>
+<p>Tornado is a young male tagged in Northumberland. He fledged from a nest in a national nature reserve, on land owned and managed by Forestry England. We're very grateful for the support of the Northumberland Hen Harrier Protection Partnership, who helped us to protect and monitor Tornado's nest, particularly those at Forestry England and Natural England.</p>
 </div>
 
 
@@ -1244,7 +1444,7 @@ pageTracker._trackPageview();
 <div class="avatar"><img src="images/birds/vulcan.jpg" alt="Vulcan"/></div>
 <h1>A profile of Vulcan</h1>
 </div>
-<p>Vulcan is a male chick tagged in Northumberland, who came from a nest of five chicks. His father is colour-ringed and is from Langholm. He’s a favourite of our project team member Jack, and named after the Roman god of fire.</p>
+<p>Vulcan is a male chick tagged in Northumberland, who came from a nest of five chicks. His father is colour-ringed and is from Langholm. He's a favourite of our project team member Jack, and named after the Roman god of fire.</p>
 </div>
 
 
