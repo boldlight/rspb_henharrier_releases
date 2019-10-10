@@ -3619,7 +3619,7 @@
 <name>Carroll</name>
 <date_time>2016-09-17</date_time>
 <X>55.40694</X>
-<Y>2.08925</Y>
+<Y>-2.08925</Y>
 </placemark>
 <placemark>
 <name>Carroll</name>
@@ -6311,7 +6311,7 @@
 <status>alive</status>
 <latest_position>
 <![CDATA[
-<h3>Latest position</h3><p>Saorsa is still in Angus.</p>
+<h3>Latest position</h3><p>Saorsa headed south to the Angus Glens in November 2017 and stayed there for the rest of the winter, until her tag suddenly and inexplicably ceased transmissions in this area on 16 February 2018, with no indications of any technical problems. A search was conducted by Police Scotland, assisted by RSPB Investigations staff, but no tag or body was found.</p>
 ]]>
 </latest_position>
 </placemark>
@@ -6530,10 +6530,10 @@
 <date_time>2018-03-18</date_time>
 <X>55.26104</X>
 <Y>-3.69983</Y>
-<status>alive</status>
+<status>dead</status>
 <latest_position>
 <![CDATA[
-<h3>Latest position</h3><p>Finn remains in the same area of south west Scotland</p>
+<h3>Latest position</h3><p>On 25 March 2018, transmissions from Finn’s tag suddenly and unexpectedly stopped near Moffat. RSPB Investigations staff conducted a search but no tag or body was found and her disappearance was reported to Police Scotland.</p>
 ]]>
 </latest_position>
 </placemark>
@@ -6823,7 +6823,7 @@
 <name>Heather</name>
 <date_time>2018-04-04</date_time>
 <X>56.42515</X>
-<Y>-.371801</Y>
+<Y>-3.71801</Y>
 </placemark>
 <placemark>
 <name>Heather</name>
@@ -6987,12 +6987,21 @@
 <X>56.99280</X>
 <Y>-4.05210</Y>
 </placemark>
+
+
 <placemark>
 <name>Lia</name>
 <date_time>2018-04-08</date_time>
 <X>52.38287</X>
 <Y>-3.48760</Y>
+<status>dead</status>
+<latest_position>
+<![CDATA[
+<h3>Latest position</h3><p>Lia’s tag showed she had stopping moving on 18 April 2018 near Tylwch and her body was found in short grass in a field. Following a post mortem examination, the main finding of interest was a fractured tail feather. The report stated that fractures of this type "have previously been found in a hen harrier proven to have been shot with ammunition (Hopkins et al., 2015). No other signs of shooting were detected in this bird."</p>
+]]>
+</latest_position>
 </placemark>
+
 
 
 
@@ -7975,7 +7984,7 @@
 <status>dead</status>
 <latest_position>
 <![CDATA[
-<h3>Latest position</h3><p>The birds tag went stopped transmitting in Anglesey.</p>
+<h3>Latest position</h3><p>Doona’s tag stopped transmitting on Anglesey.</p>
 ]]>
 </latest_position>
 </placemark>
@@ -7987,7 +7996,7 @@
 <status>dead</status>
 <latest_position>
 <![CDATA[
-<h3>Latest position</h3><p>This bird dissapeared offline in Wiltshire in suspicous circumstances.</p>
+<h3>Latest position</h3><p>On 16 January 2019, Vulcan’s tag sent out its final transmission, from a location south of Calstone Wellington, in Wiltshire. RSPB Investigations staff searched the area – a heavily-managed pheasant and partridge shoot – but there was no sign of Vulcan or his tag. He has not been heard from since.</p>
 ]]>
 </latest_position>
 </placemark>
@@ -8765,7 +8774,7 @@
 <status>alive</status>
 <latest_position>
 <![CDATA[
-<h3>Latest position</h3><p>A juvenile male fresh from the Forest of Bowland who favoured the Yorkshire Dales in early autumn before heading up to the Cumbria to sample the Lake District&apos;s bountiful prey</p>
+<h3>Latest position</h3><p>A juvenile male from the Forest of Bowland who favoured the Yorkshire Dales in early autumn before heading up to Cumbria.</p>
 ]]>
 </latest_position>
 </placemark>
@@ -8804,7 +8813,7 @@
 <status>alive</status>
 <latest_position>
 <![CDATA[
-<h3>Latest position</h3><p>A Manx female who is still on the Isle of Man making the most of the prey the island has to offer. No voles for her, mainly young rabbits and rats, or </p>
+<h3>Latest position</h3><p>A Manx female who is still on the Isle of Man.</p>
 ]]>
 </latest_position>
 </placemark>
@@ -8817,7 +8826,7 @@
 <status>alive</status>
 <latest_position>
 <![CDATA[
-<h3>Latest position</h3><p>Mary is Maye's sister and has a very different outlook to wondering. She left the Calf of Man on the 6th of september where she had been under the close eye of observatory staff. We thought she was going to head out to ireland fromm here, but instead she headed north back on to the mainland IoM and continued her rove.</p>
+<h3>Latest position</h3><p>Mary is Maye's sister and has taken a different path. She left the Calf of Man on 6 September and headed north.</p>
 ]]>
 </latest_position>
 </placemark>
@@ -8830,7 +8839,7 @@
 <status>alive</status>
 <latest_position>
 <![CDATA[
-<h3>Latest position</h3><p>A juvenile female who hasn't ranged far. Flirting between the Lancarshire Fells and the Yorkshire Dales, she is fending for herself just fine on the border.</p>
+<h3>Latest position</h3><p>A juvenile female who hasn't ranged far, moving between the Lancashire Fells and the Yorkshire Dales.</p>
 ]]>
 </latest_position>
 </placemark>
@@ -8843,7 +8852,7 @@
 <status>alive</status>
 <latest_position>
 <![CDATA[
-<h3>Latest position</h3><p>A male just over three months old, exploring all that Northumberland has to offer. Clearly a bird that doesnt believe its grim up north and is made of harder stuff.</p>
+<h3>Latest position</h3><p>A male just over three months old, exploring Northumberland.</p>
 ]]>
 </latest_position>
 </placemark>
